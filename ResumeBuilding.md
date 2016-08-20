@@ -1,28 +1,28 @@
 # MAGD 487 - RESUME BUILDING
 
-### Objectives
+## Objectives
 + Research critical elements for an effective resume
 + Compile relevant information for a job in your field
 + Create a professional resume
 + Give and receive feedback on yours and cohort's resumes
 
-### Resources
+## Resources
 + http://connectuww.orgsync.com/org/cld/Resumes
 + http://www.extension.harvard.edu/inside-extension/how-write-great-resume-cover-letter
 + https://hbr.org/2014/12/how-to-write-a-resume-that-stands-out
 
 ***
-### Definition
+## Definition
 > A resume is an evolving document that summarizes your qualifications for employment. It lets the reader know the type of position you seek, and highlights your education, experience, skills, and other related information. Ultimately, the goal of your resume is to generate a job interview.
 (http://connectuww.orgsync.com/org/cld/Resumes)
 
 1. "Evolving document" - you should constantly update your resume whenever relevant information changes.
 2. The end goal is a job interview.
 
-### Getting Started
+### Getting Started - Gather your information
 Creating a resume is no small task because of the amount of relevant information. If you've never created one, below is a checklist to help you gather your information. Remember that your resume should be job-specific, so plan on making adjustments for each opening.
 
-  #### General Information
+#### General Information
   - [ ] Name
   - [ ] Address
   - [ ] Email
@@ -32,11 +32,11 @@ Creating a resume is no small task because of the amount of relevant information
   - [ ] Organizations
   - [ ] Activities
 
-  #### Job Specific
-  - [ ] Related Experience *
+#### Job Specific
+  - [ ] Related Experience [\*](#\*)
   - [ ] Related Skills, Qualifications, Proficiencies
 
-  #### Other
+#### Other - Not all resumes
   - [ ] Other Experience(s)
   - [ ] Summary / Tag-line
   - [ ] Objective
@@ -49,14 +49,15 @@ When you write about your experience, use statements of accomplishment rather th
 - Created animated cutscenes for MTV series *Betty & Bubkus*.
 - Implemented cross-platform multiplayer servers for *Jupiter Horizon: Eventual Defeat*
 
-Include the position, company, and timespan of previous experience.
+Include the job title, company, and time held by title.
 
 Use active voice when highlighting experience.
 *If you can add 'by zombies' at the end of a sentence, you are using passive voice.*
 
-\* Some sources suggest using two sections 'Accomplishments' and 'Employment History', where the former highlights notable achievements (usually near the top of the resume).
+###### *
+Some sources suggest using two sections 'Accomplishments' and 'Employment History', where the former highlights notable achievements (usually near the top of the resume).
 
-#### Tailoring your resume
+### Tailoring your resume
 Your resume should be job-specific. If you are applying for a 2D background artist position, your private detective experience may be superfluous. Whether you choose to include them (2D art vs private detective experience) should depend on the job requirements.
 
 #### Order
