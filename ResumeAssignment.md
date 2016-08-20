@@ -13,14 +13,16 @@
 + http://www.indeed.com/q-Game-Artist-jobs.html
 + https://www.glassdoor.com/Job/concept-artist-jobs-SRCH_KO0,14.htm
 
-#### 1. Find and Identify aspects of two job postings relevant to your field
+#### 1. Find and Identify aspects of two job postings relevant to your field - 10 points
 
 Job posting generally include a written description of the job, required qualifications, non-required/preferred qualifications, and soft skills.
   - Job Responsibilities
   - Qualifications and requirements
   - Any additional qualifications.
 
-Use any resource to find two recent job postings. Print out the postings. highlight each aspect listed above.
+Use any resource to find two recent job postings. Print out the postings. Highlight each aspect listed above.
 
-#### 2. Create a resume for each job posting
-Using [Resume Building Link](MAGD487/ResumeBuilding.md) for reference, create a resume for job posting. 
+#### 2. Create a resume for each job posting - 30 points
+Using [Resume Building Link](MAGD487/ResumeBuilding.md) for reference, create a resume for job posting.
+
+#### 3. Turn job postings and two resumes to class - 10 points

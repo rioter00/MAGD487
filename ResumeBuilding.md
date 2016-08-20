@@ -85,6 +85,7 @@ Be consistent with styles. *Example: All section headers should be the same.*
 
 - Most resumes are one pages.
 
-- Print you resumes on quality white or slightly off-white paper.
+- Print your resumes on quality white or slightly off-white paper.
 
-- Your attention to details will be evident to job posters. Your lack of due diligence could be viewed in a poor light by readers. 
+- Your attention to details will be evident to readers. Your lack of due diligence could be viewed in a poor light.
+ 
