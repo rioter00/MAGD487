@@ -23,4 +23,4 @@ Job posting generally include a written description of the job, required qualifi
 Use any resource to find two recent job postings. Print out the postings. highlight each aspect listed above.
 
 #### 2. Create a resume for each job posting
-Use http://~/ResumeBuilding.md for reference.
+Using [Resume Building Link](MAGD487/ResumeBuilding.md) for reference, create a resume for job posting. 

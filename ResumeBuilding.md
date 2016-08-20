@@ -45,7 +45,7 @@ Creating a resume is no small task because of the amount of relevant information
 When you write about your experience, use statements of accomplishment rather than just descriptions of role. Use action verbs when highlighting your experience. Be consistent with tense usage.  (http://hls.harvard.edu/dept/opia/job-search-toolkit/action-verbs/)
 
 *Examples:*
-- Directed effects team in X-Award-winning *That Shooter: Y*.
+- Directed effects team in X-Award-winning *Extreme Spawn Campers*.
 - Created animated cutscenes for MTV series *Betty & Bubkus*.
 - Implemented cross-platform multiplayer servers for *Jupiter Horizon: Eventual Defeat*
 
@@ -68,6 +68,11 @@ Consider leading with relevant professional (or intern) experience if you have i
 
 If you recently graduated or are still in school, your most qualifying elements for the job may be your education.
 
+#### Style
+Use common typefaces and keep font sizes around 10 and 12 points. Differing typefaces for headers and paragraphs may aid readability. *Example: Courier for headers, Times for paragraphs.*
+
+Be consistent with styles. *Example: All section headers should be the same.*
+
 #### Tips
 
 - Proofread. Check your spelling and grammar.
@@ -76,4 +81,10 @@ If you recently graduated or are still in school, your most qualifying elements 
 
 - Do no use abbreviations.
 
-- Be concise. Use bullet points to stay organized. Largers sections should not have bullets.
+- Be concise. Use bullet points to stay organized. Larger sections should not have bullets.
+
+- Most resumes are one pages.
+
+- Print you resumes on quality white or slightly off-white paper.
+
+- Your attention to details will be evident to job posters. Your lack of due diligence could be viewed in a poor light by readers. 
