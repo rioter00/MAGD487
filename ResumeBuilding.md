@@ -1,5 +1,4 @@
-# MAGD 486 - RESUME BUILDING
-## Resume Building
+# MAGD 487 - RESUME BUILDING
 
 ### Objectives
 + Research critical elements for an effective resume
@@ -21,26 +20,26 @@
 2. The end goal is a job interview.
 
 ### Getting Started
-Creating a resume is no small task because of the amount of relevant information. If you've never created one, below is a checklist to help you gather your information
+Creating a resume is no small task because of the amount of relevant information. If you've never created one, below is a checklist to help you gather your information. Remember that your resume should be job-specific, so plan on making adjustments for each opening.
 
-#### General Information
-- [ ] Name
-- [ ] Address
-- [ ] Email
-- [ ] Phone Number
-- [ ] Education (School, Major, Minor, GPA, timespan/graduation date)
-- [ ] Honors, Awards
-- [ ] Organizations
-- [ ] Activities
+  #### General Information
+  - [ ] Name
+  - [ ] Address
+  - [ ] Email
+  - [ ] Phone Number
+  - [ ] Education (School, Major, Minor, GPA, timespan/graduation date)
+  - [ ] Honors, Awards
+  - [ ] Organizations
+  - [ ] Activities
 
-#### Job Specific
-- [ ] Related Experience *
-- [ ] Related Skills, Qualifications, Proficiencies
+  #### Job Specific
+  - [ ] Related Experience *
+  - [ ] Related Skills, Qualifications, Proficiencies
 
-#### Other
-- [ ] Other Experience(s)
-- [ ] Summary / Tag-line
-- [ ] Objective
+  #### Other
+  - [ ] Other Experience(s)
+  - [ ] Summary / Tag-line
+  - [ ] Objective
 
 #### Your experience
 When you write about your experience, use statements of accomplishment rather than just descriptions of role. Use action verbs when highlighting your experience. Be consistent with tense usage.  (http://hls.harvard.edu/dept/opia/job-search-toolkit/action-verbs/)
