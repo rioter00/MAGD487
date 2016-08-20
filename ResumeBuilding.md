@@ -54,7 +54,7 @@ Include the job title, company, and time held by title.
 Use active voice when highlighting experience.
 *If you can add 'by zombies' at the end of a sentence, you are using passive voice.*
 
-###### *
+###### \*
 Some sources suggest using two sections 'Accomplishments' and 'Employment History', where the former highlights notable achievements (usually near the top of the resume).
 
 ### Tailoring your resume
