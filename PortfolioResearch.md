@@ -22,11 +22,11 @@ Behance,
 ### 2. Prepare a presentation
 Your presentation should answer the following questions.
 1. Who's portfolios did you examine?
-2. Does the individual focus on a particular, style, media, method?
+2.Does the individual focus on a particular, style, media, method?
 3. What media does each individual use? (Images, Videos, Games, Audio)
-5. How is the content organized?
-6. How does the individual brand themselves? How does the individual portray themselves?
-7. Does the individual have written content describing themselves, their work, their clients, their aesthetics, their inspirations?
-8. Does the individual give a way to content them?
-9. How would you describe the quality of the work in the portfolio?
-10. What other notable things did you learn from examining these portfolios?
+4. How is the content organized?
+5. How does the individual brand themselves? How does the individual portray themselves?
+6. Does the individual have written content describing themselves, their work, their clients, their aesthetics, their inspirations?
+7. Does the individual give a way to content them?
+8. How would you describe the quality of the work in the portfolio?
+9. What other notable things did you learn from examining these portfolios?
