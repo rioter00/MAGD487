@@ -1,4 +1,4 @@
-# MAGD 487 - RESUME BUILDING
+# MAGD 487 - RESUME BUILDING REFERENCE
 
 ## Objectives
 + Research critical elements for an effective resume
@@ -66,14 +66,12 @@ Now that you have the basic elements gathered, consider the ordering of elements
 
 A general rule to follow is to have the most relevant information closer to the top of your resume.
 
-Consider leading with relevant professional (or intern) experience if you have it.
-
-If you recently graduated or are still in school, your most qualifying elements for the job may be your education.
+Consider leading with relevant professional (or intern) experience if you have it. If you recently graduated or are still in school, your most qualifying elements for the job may be your education.
 
 #### Style
 Use common typefaces and keep font sizes around 10 and 12 points. Differing typefaces for headers and paragraphs may aid readability. *Example: Courier for headers, Times for paragraphs.*
 
-Be consistent with styles. *Example: All section headers should be the same.*
+Be consistent with styles. *Example: All section headers are Courier, size 12, all caps, underlined. *
 
 #### Tips
 
@@ -85,7 +83,7 @@ Be consistent with styles. *Example: All section headers should be the same.*
 
 - Be concise. Be honest.
 
-- Use bullet points to stay organized. Larger sections should not have bullets.
+- Use bullet points to stay organized. Larger sections usually don't have bullets.
 
 - Most resumes are one pages.
 
