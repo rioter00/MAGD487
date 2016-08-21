@@ -7,7 +7,6 @@
 + Research examples of resumes relevant to your field
 + Create/update your resume for two job postings
 
-
 ### Resources for Job Postings
 + http://jobs.gamasutra.com
 + http://www.indeed.com/q-Game-Artist-jobs.html

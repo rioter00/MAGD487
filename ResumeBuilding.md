@@ -18,28 +18,29 @@
 
 1. "Evolving document" - you should constantly update your resume whenever relevant information changes.
 2. The end goal is a job interview.
+3. Consider your resume as a marketing tool for yourself. You want to lead with the best relevant material.
 
 ### Getting Started - Gather your information
-Creating a resume is no small task because of the amount of relevant information. If you've never created one, below is a checklist to help you gather your information. Remember that your resume should be job-specific, so plan to make adjustments for each job opening.
+Creating a resume is no small task because of the amount of relevant information. If you've never created one, below is a checklist to help you gather your information. Remember that your resume should be job-specific, so though you may not have to completely redo your resume for each job, plan to make adjustments for each opening.
 
 #### General Information
-  - [ ] Name
-  - [ ] Address
-  - [ ] Email
-  - [ ] Phone Number
-  - [ ] Education (School, Major, Minor, GPA, timespan/graduation date)
-  - [ ] Honors, Awards
-  - [ ] Organizations
-  - [ ] Activities
+  - Name
+  - Address
+  - Email
+  - Phone Number
+  - Education (School, Major, Minor, GPA, timespan/graduation date)
+  - Honors, Awards
+  - Organizations
+  - Activities
 
 #### Job Specific
-  - [ ] Related Experience *
-  - [ ] Related Skills, Qualifications, Proficiencies
+  - Related Experience *
+  - Related Skills, Qualifications, Proficiencies
 
 #### Other - Not all resumes
-  - [ ] Other Experience(s)
-  - [ ] Summary / Tag-line
-  - [ ] Objective
+  - Other Experience(s)
+  - Summary / Tag-line
+  - Objective
 
 #### Your experience
 When you write about your experience, use statements of accomplishment rather than just descriptions of role. Use action verbs when highlighting your experience. Be consistent with tense usage.  (http://hls.harvard.edu/dept/opia/job-search-toolkit/action-verbs/)
