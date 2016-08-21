@@ -20,7 +20,9 @@ Behance,
 ## Assignment
 ### 1. Find three different portfolios of individuals who similar work to you.
 ### 2. Prepare a presentation
+
 Your presentation should answer the following questions.
+
 1. Who's portfolios did you examine?
 2.Does the individual focus on a particular, style, media, method?
 3. What media does each individual use? (Images, Videos, Games, Audio)
