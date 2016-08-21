@@ -1,22 +1,28 @@
-# MAGD 487 - Portfolio Research Assignment
-### Due Date: TBD - 50 Points
+# MAGD 487 - Portfolio Creation Assignment
+### Due Date: TBD - 400 Points
 
 ## Objectives
-+ Research and examine existing portfolios of individuals in similar fields
-+ Discuss effective methods in exhibiting
-+ Discuss methods of personal branding
++ Gather creative work
++ Create artifacts of creative work (images, videos, descriptions)
++ Organize artifacts by
+  + style/theme
+  + method of creation
+  + chronology
+  + client
 
-## Resources
+## Definition - A  Work Portfolio
+> A select collection of media created by an individual or groups of individuals, showcasing work, often to attract clients and employers, create a branding identity, and .
+
+## Examples of Content Management Methods
 - https://www.behance.net (hosted)
 - https://carbonmade.com (hosted)
 - http://wordpress.com (hosted)
 - http://wordpress.org (self-hosted)
-- http://joomla.com
+- https://www.joomla.org (hosted)
+- https://www.joomla.org (self-hosted)
 - http://squarespace.com
 
 
-## Definition - A  Work Portfolio
-> A select collection of media created by individuals or groups of individuals, showcasing work to attract clients and employers.
 
 ***
 ## Assignment
