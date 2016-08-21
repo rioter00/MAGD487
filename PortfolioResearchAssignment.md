@@ -1,5 +1,7 @@
 # MAGD 487 - Portfolio Research Assignment
 
+### Due Date: TBD - 50 Points
+
 ## Objectives
 + Research and examine existing portfolios of individuals in similar fields
 + Discuss effective methods in exhibiting
@@ -35,4 +37,4 @@ Your presentation should answer the following questions.
 9. What other notable things did you learn from examining these portfolios?
 10. How are these three individuals similar and different in their portfolios?
 
-Include examples in the form of slides for your presentation. Be prepared to use your own machine or the presenter station in class. 
+Include examples in the form of slides for your presentation. Be prepared to use your own machine or the presenter station in class.

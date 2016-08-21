@@ -1,6 +1,6 @@
 # MAGD 487 - RESUME BUILDING ASSIGNMENT
 
-## Due Date:
+### Due Date: TBD - 100 Points
 
 ## Objectives
 + Research job postings relevant to your field
