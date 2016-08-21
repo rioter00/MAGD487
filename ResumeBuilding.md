@@ -20,7 +20,7 @@
 2. The end goal is a job interview.
 
 ### Getting Started - Gather your information
-Creating a resume is no small task because of the amount of relevant information. If you've never created one, below is a checklist to help you gather your information. Remember that your resume should be job-specific, so plan on making adjustments for each opening.
+Creating a resume is no small task because of the amount of relevant information. If you've never created one, below is a checklist to help you gather your information. Remember that your resume should be job-specific, so plan to make adjustments for each job opening.
 
 #### General Information
   - [ ] Name
@@ -33,7 +33,7 @@ Creating a resume is no small task because of the amount of relevant information
   - [ ] Activities
 
 #### Job Specific
-  - [ ] Related Experience [†](#†)
+  - [ ] Related Experience *
   - [ ] Related Skills, Qualifications, Proficiencies
 
 #### Other - Not all resumes
@@ -54,14 +54,14 @@ Include the job title, company, and time held by title.
 Use active voice when highlighting experience.
 *If you can add 'by zombies' at the end of a sentence, you are using passive voice.*
 
-###### †
-Some sources suggest using two sections 'Accomplishments' and 'Employment History', where the former highlights notable achievements (usually near the top of the resume).
+
+\* Some sources suggest using two sections 'Accomplishments' and 'Employment History', where the former highlights notable achievements (usually near the top of the resume).
 
 ### Tailoring your resume
 Your resume should be job-specific. If you are applying for a 2D background artist position, your private detective experience may be superfluous. Whether you choose to include them (2D art vs private detective experience) should depend on the job requirements.
 
 #### Order
-Now that you have the basic elements gathered, the order of the resume should be considered.
+Now that you have the basic elements gathered, consider the ordering of elements.
 
 A general rule to follow is to have the most relevant information closer to the top of your resume.
 
@@ -80,12 +80,14 @@ Be consistent with styles. *Example: All section headers should be the same.*
 
 - Have someone else to look at your resume.
 
-- Do no use abbreviations.
+- Do not use abbreviations. Don't assume your reader will recognize acronyms or abbreviations.
 
-- Be concise. Use bullet points to stay organized. Larger sections should not have bullets.
+- Be concise. Be honest.
+
+- Use bullet points to stay organized. Larger sections should not have bullets.
 
 - Most resumes are one pages.
 
-- Print your resumes on quality white or slightly off-white paper.
+- Print your resumes on white or slightly off-white color paper.
 
 - Your attention to details will be evident to readers. Your lack of due diligence could be viewed in a poor light.
