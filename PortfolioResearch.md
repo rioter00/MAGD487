@@ -24,7 +24,7 @@ Behance,
 Your presentation should answer the following questions.
 
 1. Who's portfolios did you examine?
-2.Does the individual focus on a particular, style, media, method?
+2. Does the individual focus on a particular, style, media, method?
 3. What media does each individual use? (Images, Videos, Games, Audio)
 4. How is the content organized?
 5. How does the individual brand themselves? How does the individual portray themselves?
