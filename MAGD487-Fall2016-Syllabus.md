@@ -82,7 +82,7 @@ It is your responsibility to keep track of your grades over the course of the se
 
 ## Grading Scale
 Grade	| Percentage Range |	Grade Interpretation
-------------|
+------------|-------|-----
 A	| 94 - 100	| Outstanding achievement; Student performance surpasses course expectations.
 A-	| 90 - 93	| Excellent performance; clearly exceeds course requirements.
 B+	| 87 - 89	| High achievement; substantially meets requirements and criteria.
