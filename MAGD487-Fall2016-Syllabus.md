@@ -67,17 +67,16 @@ Multimedia fluency and competence make it much easier to engage in academic misc
 All work that you turn in should be your own. This includes text, images, audio and information. When you use work that is the intellectual property of others, this material should be properly identified and cited using either MLA or APA style citations. If you neglect to do this, you will automatically fail the assignment. If you willfully plagiarize the work of others, you will fail the course.
 ## UWW Statement
 The University of Wisconsin-Whitewater is dedicated to a safe, supportive and non-discriminatory learning environment.  It is the responsibility of all undergraduate and graduate students to familiarize themselves with University policies regarding Special Accommodations, Academic Misconduct, Religious Beliefs Accommodation, Discrimination and Absence for University Sponsored Events (for details please refer to the Schedule of Classes; the 'Rights and Responsibilities' section of the Undergraduate Catalog; the Academic Requirements and Policies and the Facilities and Services sections of the Graduate Catalog; and the 'Student Academic Disciplinary Procedures (UWS Chapter 14); and the 'Student Nonacademic Disciplinary Procedures' (UWS Chapter 17).
-## Assignments (100 Points)
-Weekly assignments highlight particular techniques, skills, design patterns in game development. Assignments are required submit via D2L unless specified by instructor. Number of assignments may vary with pacing of class.
-## Projects (400 Points)
-Projects combine techniques, topics, skills covered in the weekly assignments related to game development in form of playable games, accompanied by Game Documents, Play Testing Documents, and Play Testing analysis. Projects later in the semester may be completed in groups and will be specified by instructor.
-## Grading
-Work | Value | Total
-------- | ------ |----
-Assignments | 	10 x  100 | 1000
-Projects 	| 3   x  400 | 1200
-Overall		| 	   | 2200 points
 
+## Assignments
+Assignment | Value
+------- | ------
+Portfolio Research Presentation | 	100
+Portfolio Design and Plan | 200
+Mid-Semester Portfolio/Project Presentation | 200
+Resume Building Assignment | 100
+Final Portfolio Presentations | 100
+** Total ** | ** 800 **
 
 It is your responsibility to keep track of your grades over the course of the semester. Your grades are posted on D2L and can be checked at any time. You earn your grades by the degree to which you meet the requirements of the assignments. If you find that you are not doing as well as you would like to be doing, you can meet with me to discuss extra credit projects BEFORE the end of the semester. If you feel that I have made a mistake recording a grade that you earned, I encourage you to email me, politely, so that it can be corrected.  
 
@@ -100,20 +99,20 @@ F	| 0 - 59	| Poor/Fail
 ## Tentative Schedule
 Dates and topics subject to change
 
-WEEK	| DATE	|     |
+WEEK	| DATE	| Presentations / Work | Assigned
 -----| -----| ---- |
-1	| 9/8/2016	| Introduction to the class
-2	| 9/15/2016	| Meetings with students, progress checks and work time
-3	| 9/22/2016	| Portfolio research presentations by students
-4	| 9/29/2016	| Portfolio design and plan due
+1	| 9/8/2016	| Introduction to the class |
+2	| 9/15/2016	| Meetings with students, progress checks and work time. |   [Portfolio Research Assignment](PortfolioResearchAssignment.md)
+3	| 9/22/2016	| Portfolio Research Presentations by students | Portfolio Design and Planning Assignment
+4	| 9/29/2016	| Portfolio Design and Plan due | [Resume Building Assignment](ResumeBuilding.md)
 5	| 10/6/2016	| Meetings with students, progress checks and work time
 6	| 10/13/2016	| Meetings with students, progress checks and work time
 7	| 10/20/2016	| Meetings with students, progress checks and work time
-8	| 10/27/2016	| Mid-semester portfolio/project presentation
-9	| 11/3/2016	| Meetings with students, progress checks and work time
+8	| 10/27/2016	| ** Resume Presentations and Workshop **
+9	| 11/3/2016	| **Mid-semester portfolio/project presentation** | Implementing social media, analytics, linking
 10	| 11/10/2016	| Meetings with students, progress checks and work time
 11	| 11/17/2016	| Meetings with students, progress checks and work time
 12	| 11/24/2016	| Meetings with students, progress checks and work time
 13	| 12/1/2016	| Meetings with students, progress checks and work time
 14	| 12/8/2016	| Resume presentations and workshop
-Exam	| 12/15/2016	| Portfolio presentations, portfolio due, resume due
+Exam	| 12/15/2016	| ** Portfolio presentations, portfolio due, resume due**
