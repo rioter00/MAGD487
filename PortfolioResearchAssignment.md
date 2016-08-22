@@ -1,5 +1,5 @@
 # MAGD 487 - Portfolio Research Assignment
-### Due Date: TBD - 50 Points
+## Due Date: TBD - 50 Points
 
 ## Objectives
 + Research and examine existing portfolios of individuals in similar fields
@@ -13,10 +13,10 @@
 - http://wordpress.org (self-hosted)
 - http://joomla.com
 - http://squarespace.com
+- http://github.com
 
-
-## Definition - A  Work Portfolio
-> A select collection of media created by individuals or groups of individuals, showcasing work to attract clients and employers.
+## Definition - Portfolio
+> A select collection of media created by an individual or groups of individuals, showcasing work to possibly attract employers and  clients, create a branding identity, increase visibility, and create a communications channel to followers.
 
 ***
 ## Assignment
