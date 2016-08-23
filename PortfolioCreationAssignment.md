@@ -1,4 +1,4 @@
-# MAGD 487 - Portfolio Creation Project
+# MAGD 487 - Portfolio Creation Assignment
 ## Due Date: TBD - 400 Points
 
 ## Objectives
