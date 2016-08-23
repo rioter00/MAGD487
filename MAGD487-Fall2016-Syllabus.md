@@ -30,13 +30,7 @@ At the end of the course students will be able to:
 - Identify areas where you need to improve your skills, develop a strategy for doing so, and follow through with one set of skills
 - Develop your own criteria for assessing projects.
 
-## Software
-For compatibility reasons, students are required to use 5.3.1f1 of Unity for the entirety of the semester, unless otherwise noted by the instructor. Projects and assignments that do no adhere this version will receive zero credit.
-Readings
-Recommended books for this course areHolistic Game Development with Unity: An All-in-One Guide to Implementing Game Mechanics, Art, Design and Programming by Penny de Byl and Fundamentals of Game Design by Ernest Adams (Third Edition)
-
-In addition, we will make heavy use of the Unity 3D official tutorials and tutorials created by other Unity users. There may be assigned readings on game design concepts and techniques, and articles that engage critically with the video game medium. In addition, there will be regularly assigned tutorials for practice on the concepts of the week.
-Attendance & Student Expectations
+### Attendance & Student Expectations
 Your presence in class is expected with excused absences being medical and family emergencies (such as a death in the family).  You may have two unexcused absences without penalty, but beyond that you will lose 1/3 of a letter grade (A → A- → B+ → B → B- → C+, etc) from your final grade for each unexcused absence.
 
 Please don't ask me what you missed. It is your responsibility to check D2L, talk to other students, get notes, check announcements, etc.
@@ -77,7 +71,7 @@ Portfolio Design and Plan | 200
 Mid-Semester Portfolio/Project Presentation | 200
 Resume Building Assignment | 100
 Final Portfolio Presentations | 100
-** Total ** | ** 800 **
+**Total** | **800**
 
 It is your responsibility to keep track of your grades over the course of the semester. Your grades are posted on D2L and can be checked at any time. You earn your grades by the degree to which you meet the requirements of the assignments. If you find that you are not doing as well as you would like to be doing, you can meet with me to discuss extra credit projects BEFORE the end of the semester. If you feel that I have made a mistake recording a grade that you earned, I encourage you to email me, politely, so that it can be corrected.  
 
@@ -109,11 +103,11 @@ WEEK	| DATE	| Presentations / Work | Assigned
 5	| 10/6/2016	| Meetings with students, progress checks and work time |
 6	| 10/13/2016	| Meetings with students, progress checks and work time  |
 7	| 10/20/2016	| Meetings with students, progress checks and work time |
-8	| 10/27/2016	| ** Resume Presentations and Workshop **
+8	| 10/27/2016	| **Resume Presentations and Workshop** |
 9	| 11/3/2016	| **Mid-semester portfolio/project presentation** | Implementing social media, analytics, linking
 10	| 11/10/2016	| Meetings with students, progress checks and work time |
 11	| 11/17/2016	| Meetings with students, progress checks and work time |
 12	| 11/24/2016	| Meetings with students, progress checks and work time |
 13	| 12/1/2016	| Meetings with students, progress checks and work time |
 14	| 12/8/2016	| Resume presentations and workshop  |
-Exam	| 12/15/2016	| ** Portfolio presentations, portfolio due, resume due**  |
+Exam	| 12/15/2016	| **Portfolio presentations, portfolio due, resume due**  |
