@@ -106,14 +106,14 @@ WEEK	| DATE	| Presentations / Work | Assigned
 2	| 9/15/2016	| Meetings with students, progress checks and work time. |   [Portfolio Research Assignment](PortfolioResearchAssignment.md)
 3	| 9/22/2016	| Portfolio Research Presentations by students | Portfolio Design and Planning Assignment
 4	| 9/29/2016	| Portfolio Design and Plan due | [Resume Building Assignment](ResumeBuilding.md)
-5	| 10/6/2016	| Meetings with students, progress checks and work time
-6	| 10/13/2016	| Meetings with students, progress checks and work time
-7	| 10/20/2016	| Meetings with students, progress checks and work time
+5	| 10/6/2016	| Meetings with students, progress checks and work time |
+6	| 10/13/2016	| Meetings with students, progress checks and work time  |
+7	| 10/20/2016	| Meetings with students, progress checks and work time |
 8	| 10/27/2016	| ** Resume Presentations and Workshop **
 9	| 11/3/2016	| **Mid-semester portfolio/project presentation** | Implementing social media, analytics, linking
-10	| 11/10/2016	| Meetings with students, progress checks and work time
-11	| 11/17/2016	| Meetings with students, progress checks and work time
-12	| 11/24/2016	| Meetings with students, progress checks and work time
-13	| 12/1/2016	| Meetings with students, progress checks and work time
-14	| 12/8/2016	| Resume presentations and workshop
-Exam	| 12/15/2016	| ** Portfolio presentations, portfolio due, resume due**
+10	| 11/10/2016	| Meetings with students, progress checks and work time |
+11	| 11/17/2016	| Meetings with students, progress checks and work time |
+12	| 11/24/2016	| Meetings with students, progress checks and work time |
+13	| 12/1/2016	| Meetings with students, progress checks and work time |
+14	| 12/8/2016	| Resume presentations and workshop  |
+Exam	| 12/15/2016	| ** Portfolio presentations, portfolio due, resume due**  |
