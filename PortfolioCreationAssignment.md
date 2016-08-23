@@ -31,7 +31,7 @@ Do not begin work on this project until after you've completed the [Portfolio Re
   + Other pages?
 
   Be prepared to answer these questions?
-  + What types of media are looking to highlight? How?
+  + What types of media are you looking to highlight? How?
 
   > **Second Check In**
   > - Bring sketches (ON PAPER) of your portfolio, showing layout, expected interactions.
@@ -56,7 +56,7 @@ Do not begin work on this project until after you've completed the [Portfolio Re
   - If grouping artifacts from a single project, a written description about the project (also known as case studies) give visitors insight on the project and process as a whole.
   - If had a contributor to work items, be sure to credit them.
 
-  > **Third Check In**
+  > **Third Check In** (Steps 3 and 4)
   > - Bring all the formatted, converted, resized media.
   > - Bring in updated sketches.
   > - Bring written descriptions of projects/images/media/games.
@@ -71,8 +71,8 @@ Research web hosts and services. Some may cost money. Signup for one and begin a
     - http://wordpress.org (self-hosted)
     - https://www.joomla.org (hosted)
     - https://www.joomla.org (self-hosted)
-    - http://squarespace.com
-    - http://github.com
+    - http://squarespace.com (self-hosted)
+    - http://github.com (markdown possible, some restrictions)
 
 6. fdf
 
