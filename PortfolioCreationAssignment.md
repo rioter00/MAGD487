@@ -1,5 +1,4 @@
 # MAGD 487 - Portfolio Creation Assignment
-## Due Date: TBD - 400 Points
 
 ## Objectives
 + Research effective portfolios
@@ -12,11 +11,8 @@
 ## Definition - Portfolio
 > *A select collection of media created by an individual or groups of individuals, showcasing work to possibly attract employers and  clients, create a branding identity, increase visibility, and create a communications channel to followers.*
 
-## Possible Sources of Managing Content
-
-
 ## Process
-#### Throughout this semester you will working through this
+#### Throughout this semester you will working through this with meetings of progress with the instructor.
 1. Gather creative work
   - Locate and centralize creative work. If you are working with digital images, as you might have to resize these images, make sure you are working with duplicates/backups.
 2. Create artifacts of creative work (images, videos, descriptions).
