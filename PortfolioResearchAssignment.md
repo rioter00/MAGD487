@@ -1,5 +1,5 @@
 # MAGD 487 - Portfolio Research Assignment
-## Due Date: TBD - 100 Points
+## Due Date: 9/22 - 100 Points
 
 ## Objectives
 + Research and examine existing portfolios of individuals in similar fields
@@ -24,14 +24,14 @@ The aspects of effective portfolio will be part of in-class discussion based on 
 
 ***
 ## Assignment
-### 1. Find three different portfolios of individuals who do similar work to you.
-Include these three links in a printed document that will be handed in at class time.
+### 1. Find four different portfolios of individuals who do similar work to you.
+Include these four links in a printed document that will be handed in at class time.
 
 ### 2. Examine the Portfolio and Prepare a 5-minute presentation
 Your presentation should answer the following questions.
 
-1. Who's portfolios did you examine?
-2. How are these portfolios different and similar?
+1. Whose portfolios did you examine?
+2. How are these  portfolios different and similar?
 3. What media does each individual create (3D models, concept art, character animations, web-art, interactive art, sound art, video game backend, etc.) Do they create more than one?
 4. What media is used to showcase their creation?
 (Images, Videos, Games, Audio, Demos, Animations, etc.)
