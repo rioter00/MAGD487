@@ -102,7 +102,7 @@ Dates and topics subject to change
 
 WEEK	| DATE	| Presentations / Work | Assigned
 -----| -----| ---- |
-1	| 9/8/2016	| Introduction to the class |
+1	| 9/8/2016	| Introduction to the class | [Space]
 2	| 9/15/2016	| Meetings with students, progress checks and work time. |   [Portfolio Research Assignment](PortfolioResearchAssignment.md)
 
 3	| 9/22/2016	| Portfolio Research Presentations by students | Portfolio Design and Planning Assignment
