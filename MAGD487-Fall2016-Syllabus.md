@@ -1,5 +1,5 @@
 # MAGD 487
-## Advanced MAGD Team Projects
+## Advanced MAGD Team Projects - Portfolio Development
 ## Syllabus – Fall 2016
 
 - Instructor: Nick Hwang
@@ -19,20 +19,20 @@ As the culmination of the Media Arts and Game Development sequence, students tak
 
 ## Course Objectives
 At the end of the course students will have:
-- Positioned oneself within the relevant field(s)/market(s) for career opportunities
+- Positioned themselves within the relevant field(s)/market(s) for career opportunities
 - Identify areas where you need to improve your skills, develop a strategy for doing so, and follow through with one set of skills
-- Created their own portfolio
-- Have experience searching to job postings
+- Designed and implemented an online portfolio
+- Have experience searching job postings
 - Have experience finding freelance work
 - Have experience preparing resumes
 - Have experience preparing cover letters
-- Be familiar with several sources for design research in the relevant field, including important designers and writers, blogs, tutorials, and other sources of information
+- Become familiar with several sources for design research in the relevant field, including important designers and writers, blogs, tutorials, and other sources of information
 - Be aware of design trends, best practices, and concerns in the relevant field
 - Gained experience presenting own material
 - Become more comfortable giving and receiving peer review
 
 ### Attendance & Student Expectations
-Your presence in class is expected with excused absences being medical and family emergencies (such as a death in the family).  You may have two unexcused absences without penalty, but beyond that you will lose 1/3 of a letter grade (A → A- → B+ → B → B- → C+, etc) from your final grade for each unexcused absence.
+Your presence in class is expected with excused absences being medical and family emergencies (such as a death in the family). You may have two unexcused absences without penalty, but beyond that you will lose 1/3 of a letter grade (A → A- → B+ → B → B- → C+, etc) from your final grade for each unexcused absence.
 
 Please don't ask me what you missed. It is your responsibility to check D2L, talk to other students, get notes, check announcements, etc.
 
@@ -97,17 +97,18 @@ F	| 0 - 59	| Poor/Fail
 ## Tentative Schedule
 Dates and topics subject to change
 
+
 WEEK	| DATE	| Presentations / Work | Assigned
 ------| ------| -------------------- | --------
 1	| 9/8/2016	| Introduction to the class |
 2	| 9/15/2016	| **Explanation of meetings with students, progress checks and work time** |   [Portfolio Research Assignment](PortfolioResearchAssignment.md)
-3	| 9/22/2016	| **Portfolio Research Presentations** |[Portfolio Design and Planning Assignment](PortfolioCreationAssignment.md) <br><br>[Resume Building Assignment](ResumeBuilding.md)
+3	| 9/22/2016	| **Portfolio Research Presentations** |1. [Portfolio Development Project](PortfolioCreationAssignment.md) <br><br> 2. [Resume Building Assignment](ResumeBuilding.md)
 4	| \*9/29/2016	| Meetings with students, progress checks and work time |
 5	| 10/6/2016	| Meetings with students, progress checks and work time |
 6	| 10/13/2016	| Meetings with students, progress checks and work time  |
 7	| \*10/20/2016	| Meetings with students, progress checks and work time |
 8	| 10/27/2016	| **Resume Presentations and Workshop** |
-9	| 11/3/2016	| **Mid-semester portfolio/project presentation** | Implementing social media, analytics, linking
+9	| 11/3/2016	| **Mid-semester portfolio/project presentation** | 
 10	| 11/10/2016	| Meetings with students, progress checks and work time | Cover Letter Assignment
 11	| 11/17/2016	| Meetings with students, progress checks and work time |
 12	| 11/24/2016	| Meetings with students, progress checks and work time |

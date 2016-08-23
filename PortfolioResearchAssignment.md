@@ -27,7 +27,7 @@ The aspects of effective portfolio will be part of in-class discussion based on 
 ### 1. Find four different portfolios of individuals who do similar work to you.
 Include these four links in a printed document that will be handed in at class time.
 
-### 2. Examine the Portfolio and Prepare a 5-minute presentation
+### 2. Examine the Portfolios and Prepare a 5-minute presentation
 Your presentation should answer the following questions.
 
 1. Whose portfolios did you examine?
@@ -38,6 +38,7 @@ Your presentation should answer the following questions.
 5. Does the individual focus on a particular, style, method?
 6. What media does the individual use to show their work?
 7. How is the content organized?
+7. Is the site intuitive and easily navigated?
 8. How does the individuals brand themselves?
 9. Does the individual have written content describing themselves, their work, their clients, their aesthetics, their inspirations?
 10. Does the individual give a way to contact them?
@@ -45,6 +46,9 @@ Your presentation should answer the following questions.
 12. Do you get a sense of what kind of artist/designer/creator they are?
 13. What other notable things did you learn from examining these portfolios?
 14. What makes their portfolio effective? What could they do change?
+15. Is there an 'About' page? What's on it?
+16. Is there a 'Blog' page? What's on it?
+17. Are there social media links?
 
 
 Include examples to support your answers in the form of slides for your presentation. Be prepared to use your own machine or the presenter station in class.
