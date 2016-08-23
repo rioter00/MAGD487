@@ -15,13 +15,24 @@
 	- Course Website: on D2L (Desire 2 Learn)
 
 ## Course Description
-As the culmination of the Media Arts and Game Development sequence, students taking this class will pitch, plan, design and build a large group interactive multimedia project as well as smaller projects. Students will implement the knowledge they have acquired individually in courses in the MAGD curriculum and learn how to work in a group. The final project should be a significant piece which helps launch students in their desired field.
+As the culmination of the Media Arts and Game Development sequence, students taking this class will create a portfolio of their work in the MAGD program. Students will research effective portfolio building methods. Students will also search jobs in their market, create resumes, and practice creating cover letters.
 
 ## Course Objectives
-At the end of the course students will be able to:
+At the end of the course students will have:
+- Positioned oneself within the relevant field(s)/market(s) for career opportunities
+- Identify areas where you need to improve your skills, develop a strategy for doing so, and follow through with one set of skills
+- Created their own portfolio
+- Have experience searching to job postings
+- Have experience finding freelance work
+- Have experience preparing a resume
+- Have experience preparing a cover letter
+-
+
+
 - Be familiar with several sources for design research in the relevant field, including important designers and writers, blogs, tutorials, and other sources of information
 - Be aware of design trends, best practices, and concerns in the relevant field
-- Assess existing and proposed projects using criteria from the relevant field(s) • Situate and assess one's project within the relevant field(s)/market(s)
+- Assess existing and proposed projects using criteria from the relevant field(s)
+- Situate and assess one's project within the relevant field(s)/market(s)
 - Create projects that integrate a variety of technologies and artistry
 - Demonstrate good design practice when making creative decisions
 - Work effectively on a team over an extended period
@@ -100,14 +111,14 @@ WEEK	| DATE	| Presentations / Work | Assigned
 ------| ------| -------------------- | --------
 1	| 9/8/2016	| Introduction to the class |
 2	| 9/15/2016	| **Explanation of meetings with students, progress checks and work time** |   [Portfolio Research Assignment](PortfolioResearchAssignment.md)
-3	| 9/22/2016	| **Portfolio Research Presentations** | [Portfolio Design and Planning Assignment](PortfolioCreationAssignment.md)
-4	| 9/29/2016	| **Portfolio Design and Plan due** | [Resume Building Assignment](ResumeBuilding.md)
+3	| 9/22/2016	| **Portfolio Research Presentations** |[Portfolio Design and Planning Assignment](PortfolioCreationAssignment.md) <br><br>[Resume Building Assignment](ResumeBuilding.md)
+4	| \*9/29/2016	| Meetings with students, progress checks and work time |
 5	| 10/6/2016	| Meetings with students, progress checks and work time |
 6	| 10/13/2016	| Meetings with students, progress checks and work time  |
-7	| 10/20/2016	| Meetings with students, progress checks and work time |
+7	| \*10/20/2016	| Meetings with students, progress checks and work time |
 8	| 10/27/2016	| **Resume Presentations and Workshop** |
 9	| 11/3/2016	| **Mid-semester portfolio/project presentation** | Implementing social media, analytics, linking
-10	| 11/10/2016	| Meetings with students, progress checks and work time | Cover Letters
+10	| 11/10/2016	| Meetings with students, progress checks and work time | Cover Letter Assignment
 11	| 11/17/2016	| Meetings with students, progress checks and work time |
 12	| 11/24/2016	| Meetings with students, progress checks and work time |
 13	| 12/1/2016	| Meetings with students, progress checks and work time |
