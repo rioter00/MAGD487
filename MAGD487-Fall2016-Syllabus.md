@@ -19,15 +19,16 @@ As the culmination of the Media Arts and Game Development sequence, students tak
 
 ## Course Objectives
 At the end of the course students will be able to:
-Be familiar with several sources for design research in the relevant field, including important designers and writers, blogs, tutorials, and other sources of information
-Be aware of design trends, best practices, and concerns in the relevant field • Assess existing and proposed projects using criteria from the relevant field(s) • Situate and assess one's project within the relevant field(s)/market(s)
-Create projects that integrate a variety of technologies and artistry
-Demonstrate good design practice when making creative decisions
-Work effectively on a team over an extended period
-Position oneself within the relevant field(s)/market(s) for career opportunities
-Practice joy in creative problem-solving
-Identify areas where you need to improve your skills, develop a strategy for doing so, and follow through with one set of skills
-Develop your own criteria for assessing projects.
+- Be familiar with several sources for design research in the relevant field, including important designers and writers, blogs, tutorials, and other sources of information
+- Be aware of design trends, best practices, and concerns in the relevant field
+- Assess existing and proposed projects using criteria from the relevant field(s) • Situate and assess one's project within the relevant field(s)/market(s)
+- Create projects that integrate a variety of technologies and artistry
+- Demonstrate good design practice when making creative decisions
+- Work effectively on a team over an extended period
+- Position oneself within the relevant field(s)/market(s) for career opportunities
+- Practice joy in creative problem-solving
+- Identify areas where you need to improve your skills, develop a strategy for doing so, and follow through with one set of skills
+- Develop your own criteria for assessing projects.
 
 ## Software
 For compatibility reasons, students are required to use 5.3.1f1 of Unity for the entirety of the semester, unless otherwise noted by the instructor. Projects and assignments that do no adhere this version will receive zero credit.
