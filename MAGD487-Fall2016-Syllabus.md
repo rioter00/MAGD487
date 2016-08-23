@@ -70,7 +70,8 @@ Portfolio Research Presentation | 	100
 Portfolio Design and Plan | 200
 Mid-Semester Portfolio/Project Presentation | 200
 Resume Building Assignment | 100
-Final Portfolio Presentations | 100
+Portfolio Presentations | 100
+Final Submission of Portfolio,
 **Total** | **800**
 
 It is your responsibility to keep track of your grades over the course of the semester. Your grades are posted on D2L and can be checked at any time. You earn your grades by the degree to which you meet the requirements of the assignments. If you find that you are not doing as well as you would like to be doing, you can meet with me to discuss extra credit projects BEFORE the end of the semester. If you feel that I have made a mistake recording a grade that you earned, I encourage you to email me, politely, so that it can be corrected.  
@@ -110,4 +111,4 @@ WEEK	| DATE	| Presentations / Work | Assigned
 12	| 11/24/2016	| Meetings with students, progress checks and work time |
 13	| 12/1/2016	| Meetings with students, progress checks and work time |
 14	| 12/8/2016	| Resume presentations and workshop  |
-Exam	| 12/15/2016	| **Portfolio presentations, portfolio due, resume due**  |
+Exam	| 12/15/2016	| **Portfolio presentations, Final Portfolio due, Revised Resume due**  |
