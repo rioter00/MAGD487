@@ -24,22 +24,12 @@ At the end of the course students will have:
 - Created their own portfolio
 - Have experience searching to job postings
 - Have experience finding freelance work
-- Have experience preparing a resume
-- Have experience preparing a cover letter
--
-
-
+- Have experience preparing resumes
+- Have experience preparing cover letters
 - Be familiar with several sources for design research in the relevant field, including important designers and writers, blogs, tutorials, and other sources of information
 - Be aware of design trends, best practices, and concerns in the relevant field
-- Assess existing and proposed projects using criteria from the relevant field(s)
-- Situate and assess one's project within the relevant field(s)/market(s)
-- Create projects that integrate a variety of technologies and artistry
-- Demonstrate good design practice when making creative decisions
-- Work effectively on a team over an extended period
-- Position oneself within the relevant field(s)/market(s) for career opportunities
-- Practice joy in creative problem-solving
-- Identify areas where you need to improve your skills, develop a strategy for doing so, and follow through with one set of skills
-- Develop your own criteria for assessing projects.
+- Gained experience presenting own material
+- Become more comfortable giving and receiving peer review
 
 ### Attendance & Student Expectations
 Your presence in class is expected with excused absences being medical and family emergencies (such as a death in the family).  You may have two unexcused absences without penalty, but beyond that you will lose 1/3 of a letter grade (A → A- → B+ → B → B- → C+, etc) from your final grade for each unexcused absence.
