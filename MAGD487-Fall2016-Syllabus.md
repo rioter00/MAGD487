@@ -17,6 +17,8 @@
 ## Course Description
 As the culmination of the Media Arts and Game Development sequence, students taking this class will create a portfolio of their work in the MAGD program. Students will research effective portfolio building methods. Students will also search jobs in their market, create resumes, and practice creating cover letters.
 
+Through this course, we will video chat with various professionals in relevant fields, learning about their career trajectory. Students will be have QA sessions on job hunting, current field trends, and other relavent skills. 
+
 ## Course Objectives
 At the end of the course students will have:
 - Positioned themselves within the relevant field(s)/market(s) for career opportunities
