@@ -108,7 +108,7 @@ WEEK	| DATE	| Presentations / Work | Assigned
 6	| 10/13/2016	| Meetings with students, progress checks and work time  |
 7	| \*10/20/2016	| Meetings with students, progress checks and work time |
 8	| 10/27/2016	| **Resume Presentations and Workshop** |
-9	| 11/3/2016	| **Mid-semester portfolio/project presentation** | 
+9	| 11/3/2016	| **Mid-semester portfolio/project presentation** |
 10	| 11/10/2016	| Meetings with students, progress checks and work time | Cover Letter Assignment
 11	| 11/17/2016	| Meetings with students, progress checks and work time |
 12	| 11/24/2016	| Meetings with students, progress checks and work time |
