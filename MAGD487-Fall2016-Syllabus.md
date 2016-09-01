@@ -1,10 +1,11 @@
 # MAGD 487
-## Advanced MAGD Team Projects - Portfolio Development
+## Advanced MAGD Team Projects
 ## Syllabus – Fall 2016
 
 - Instructor: Nick Hwang
 - Office: McGraw 105
 - Office Hours: TBD
+
 
 - Contact Details:
 	-	Office Phone: (262) 472-1725
@@ -14,10 +15,14 @@
 	- Exam: Thursday, December 15, 2016; 6:35-8:35 p.m
 	- Course Website: on D2L (Desire 2 Learn)
 
+
+- [UWW Academic Calendars](http://www.uww.edu/Documents/registrar/Calendars/2016-2017/2016-17%20CALENDAR.pdf)
+
+
 ## Course Description
 As the culmination of the Media Arts and Game Development sequence, students taking this class will create a portfolio of their work in the MAGD program. Students will research effective portfolio building methods. Students will also search jobs in their market, create resumes, and practice creating cover letters.
 
-Through this course, we will video chat with various professionals in relevant fields, learning about their career trajectory. Students will be have QA sessions on job hunting, current field trends, and other relavent skills. 
+Through this course, we will video chat with various professionals in relevant fields, learning about their career trajectory. Students will be have QA sessions on job hunting, current field trends, and other relavent skills.
 
 ## Course Objectives
 At the end of the course students will have:
