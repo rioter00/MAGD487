@@ -112,7 +112,7 @@ WEEK	| DATE	| Presentations / Work | Assigned
 3	| 9/22/2016	| **Portfolio Research Presentations** |1. [Portfolio Development Project](PortfolioCreationAssignment.md) <br><br> 2. [Resume Building Assignment](ResumeBuilding.md)
 4	| \*9/29/2016	| Meetings with students, progress checks and work time |
 5	| 10/6/2016	| Meetings with students, progress checks and work time |
-6	| 10/13/2016	| Meetings with students, progress checks and work time  |
+6	| \*10/13/2016	| Meetings with students, progress checks and work time  |
 7	| \*10/20/2016	| Meetings with students, progress checks and work time |
 8	| 10/27/2016	| **Resume Presentations and Workshop** |
 9	| 11/3/2016	| **Mid-semester portfolio/project presentation** |
@@ -121,4 +121,4 @@ WEEK	| DATE	| Presentations / Work | Assigned
 12	| 11/24/2016	| Meetings with students, progress checks and work time |
 13	| 12/1/2016	| Meetings with students, progress checks and work time |
 14	| 12/8/2016	| Resume presentations and workshop  |
-Exam	| 12/15/2016	| **Portfolio presentations, Final Portfolio due, Revised Resume due**  |
+Exam	| 12/15/2016	| **Final Portfolio presentations, Final Portfolio due, Revised Resume due**  |
