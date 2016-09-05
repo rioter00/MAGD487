@@ -10,6 +10,7 @@
 + http://connectuww.orgsync.com/org/cld/Resumes
 + http://www.extension.harvard.edu/inside-extension/how-write-great-resume-cover-letter
 + https://hbr.org/2014/12/how-to-write-a-resume-that-stands-out
++ [other tips PDF] (undergrad_resumes_and_cover_letters.pdf)
 
 ***
 ## Definition
