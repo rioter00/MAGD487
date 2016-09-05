@@ -7,7 +7,7 @@
 + Research examples of resumes relevant to your field
 + Create/update your resume for two job postings
 
-## Resources for Job Postings
+## Possible Resources for Job Postings
 + http://jobs.gamasutra.com
 + http://www.indeed.com/q-Game-Artist-jobs.html
 + https://www.glassdoor.com/Job/concept-artist-jobs-SRCH_KO0,14.htm
@@ -19,7 +19,7 @@ Use any resource to find two recent job postings. Print out the postings. Highli
 
 ### 2. On a separate paper answer these questions, referencing both job postings - 20 points
 1. What aspects of this job are enticing to you?
-2. At present, do you feel qualified enough to apply for either posting? Why?
+2. At present, do you feel qualified enough to apply for either posting? Give supporting reasons. 
 3. Are there required qualifications that you lack? Which ones?
 4. Can you see yourself acquiring a majority of those qualifications?
 
