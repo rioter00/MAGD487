@@ -3,7 +3,7 @@
 [Part One](#part-one)
 [Part Two](#part-two)
 
-## Part One
+#### Part One
 
 ## Objectives
 + Research effective portfolios
@@ -96,7 +96,7 @@ To be updated.
 
 * * *
 
-## Part Two
+#### Part Two
 
 ## Process
 #### The second half of the semester, as you work on portfolio-expanding content, you will make adjustments to your portfolio. 
