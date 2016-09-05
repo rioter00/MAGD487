@@ -87,7 +87,8 @@ Research web hosts and services. Some may cost money. Signup for one and begin a
     - http://github.com (markdown possible, some restrictions)
 
   > **Check-In Material**
-  > - Have the link to the live page(s). 
+  > - Have the link to the live page(s).
+  > - All linked media and pages should run and open. Dead links may result in lower evaluation. 
 
 6. Prepare a presentation of your portfolio.
 
