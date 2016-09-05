@@ -24,6 +24,8 @@ As the culmination of the Media Arts and Game Development sequence, students tak
 
 Through this course, we will video chat with various professionals in relevant fields, learning about their career trajectory. Students will be have QA sessions on job hunting, current field trends, and other relavent skills.
 
+Through the semester, students will have the opportunity to meet and discuss career experiences with various industry professionals. 
+
 ## Course Objectives
 At the end of the course students will have:
 - Positioned themselves within the relevant field(s)/market(s) for career opportunities
