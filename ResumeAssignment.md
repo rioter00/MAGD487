@@ -1,15 +1,13 @@
 # MAGD 487 - RESUME BUILDING ASSIGNMENT 
 
-[Part One](#part-one:-100-points)
+[Part One](#part-one-100-points)
 
-and Two
+[Part Two](#part-two-100-points)
 
 ### Due Date: TBD
 
 ### Part One: 100 Points
 
-
-[Part One](#part-one-100-points)
 
 ## Objectives
 + Research job postings relevant to your field
