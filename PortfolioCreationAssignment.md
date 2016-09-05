@@ -74,6 +74,11 @@ Research web hosts and services. Some may cost money. Signup for one and begin a
     - http://squarespace.com (self-hosted)
     - http://github.com (markdown possible, some restrictions)
 
+Upload content, format page(s).
+
+  > ** Fourth Check In**
+  > - Have the link to the live page
+
 6. fdf
 
 
