@@ -14,10 +14,10 @@ Portfolios are marketing and branding tools for creators and companies. They all
 The aspects of effective portfolio will be part of in-class discussion based on your research and incorporated into your own portfolio.
 
 ## Resources
-- https://www.behance.net (hosted)
-- https://carbonmade.com (hosted)
-- http://wordpress.com (hosted)
-- http://wordpress.org (self-hosted)
+- https://www.behance.net 
+- https://carbonmade.com 
+- http://wordpress.com
+- http://wordpress.org
 - http://joomla.com
 - http://squarespace.com
 - http://github.com
