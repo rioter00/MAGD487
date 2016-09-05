@@ -1,6 +1,6 @@
 # MAGD 487 - RESUME BUILDING ASSIGNMENT 
 
-[Part One](#Part-One:-100-Points)
+[Part One](#part-one:-100-points)
 
 and Two
 
