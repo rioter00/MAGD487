@@ -73,14 +73,15 @@ The University of Wisconsin-Whitewater is dedicated to a safe, supportive and no
 
 ## Assignments
 Assignment | Value
-------- | ------
-Portfolio Research Presentation | 100
-Portfolio Design and Plan | 100
-Progress Checks | 100
-Mid-Semester Portfolio/Project Presentation | 200
-Resume Building Assignment | 150
-Portfolio Presentation | 100
-Final Portfolio and Revised Resume | 250
+------- | ------:
+1. Portfolio Research Presentation | 100
+2. Portfolio Design and Plan | 100
+3. Resume Building Assignment | 150
+4. Cover Letter Assignment | 100
+5. Progress Checks | 100 x 5
+6. Mid-Semester Portfolio/Project Presentation | 200
+7. Portfolio Expansion Projects Outlined | 100
+8. Final Portfolio and Revised Resume | 250
 **Total** | **1000**
 
 It is your responsibility to keep track of your grades over the course of the semester. Your grades are posted on D2L and can be checked at any time. You earn your grades by the degree to which you meet the requirements of the assignments. If you find that you are not doing as well as you would like to be doing, you can meet with me to discuss extra credit projects BEFORE the end of the semester. If you feel that I have made a mistake recording a grade that you earned, I encourage you to email me, politely, so that it can be corrected.  
@@ -108,17 +109,17 @@ Dates and topics subject to change
 WEEK	| DATE	| Presentations / Work | Assigned
 ------| ------| -------------------- | --------
 1	| 9/08/2016	| Introduction to the class |
-2	| 9/15/2016	| **Explanation of meetings with students, progress checks and work time** |   [Portfolio Research Assignment](PortfolioResearchAssignment.md)
-3	| 9/22/2016	| **Portfolio Research Presentations** |1. [Portfolio Development Project](PortfolioCreationAssignment.md) <br><br> 2. [Resume Building Assignment](ResumeBuilding.md)
+2	| 9/15/2016	| **Explanation of meetings with students, progress checks and work time** |   1. [Portfolio Research Assignment](PortfolioResearchAssignment.md)
+3	| 9/22/2016	| **Portfolio Research Presentations** |2. [Portfolio Development Project](PortfolioCreationAssignment.md) <br><br> 3. [Resume Building Assignment](ResumeBuilding.md)
 4	| \*9/29/2016	| Meetings with students, progress checks and work time |
-5	| 10/06/2016	| Meetings with students, progress checks and work time | Cover Letter Assignment
+5	| 10/06/2016	| Meetings with students, progress checks and work time | 4. Cover Letter Assignment
 6	| \*10/13/2016	| Meetings with students, progress checks and work time  |
 7	| \*10/20/2016	| Meetings with students, progress checks and work time |
 8	| 10/27/2016	| **Resume and Cover Letter Presentations and Workshop** |
-9	| 11/03/2016	| **Mid-semester portfolio/project presentation** | Portfolio Expansion Projects Outlined
+9	| 11/03/2016	| **6. Mid-semester portfolio/project presentation** | 7. Portfolio Expansion Projects Outlined
 10	| 11/10/2016	| Meetings with students, progress checks and work time |
 11	| 11/17/2016	| Meetings with students, progress checks and work time |
-12	| 11/24/2016	|  \**Thanksgiving *|
+12	| 11/24/2016	|  \**Thanksgiving*\* |
 13	| 12/01/2016	| Meetings with students, progress checks and work time |
 14	| 12/08/2016	| Resume presentations and workshop  |
 Exam	| 12/15/2016	| **Final Portfolio presentations, Final Portfolio due, Revised Resume due**  |
