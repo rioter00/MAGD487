@@ -112,7 +112,7 @@ WEEK	| DATE	| Presentations / Work | Assigned
 ------| ------| -------------------- | --------:
 1	| 9/08/2016	| Introduction to the class |   
 2	| 9/15/2016	| **Explanation of meetings with students, progress checks and work time** |   1. [Portfolio Research Assignment](PortfolioResearchAssignment.md)
-3	| 9/22/2016	| **Portfolio Research Presentations** |2. [Portfolio Development Project](PortfolioCreationAssignment.md) <br><br> 3. [Resume Building Assignment](ResumeBuilding.md)
+3	| 9/22/2016	| **Portfolio Research Presentations** |2. [Portfolio Development Project](PortfolioCreationAssignment.md) <br><br> 3. [Resume Building Assignment](ResumeBuildingAssignment.md)
 4	| \*9/29/2016	| Meetings with students, progress checks and work time |
 5	| 10/06/2016	| Meetings with students, progress checks and work time | 4. Cover Letter Assignment
 6	| \*10/13/2016	| Meetings with students, progress checks and work time  |
