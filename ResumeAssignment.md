@@ -8,6 +8,9 @@ and Two
 
 ### Part One: 100 Points
 
+
+[Part One](#part-one:-100-points)
+
 ## Objectives
 + Research job postings relevant to your field
 + Research examples of resumes relevant to your field
