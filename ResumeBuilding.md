@@ -90,3 +90,5 @@ Be consistent with styles. *Example: All section headers are Courier, size 12, a
 - Print your resumes on white or slightly off-white color paper.
 
 - Your attention to details will be evident to readers. Your lack of due diligence could be viewed in a poor light.
+
+- If you are in college, your high school experiences and GPA are unnecessary. 
