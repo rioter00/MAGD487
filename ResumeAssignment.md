@@ -1,6 +1,8 @@
-# MAGD 487 - RESUME BUILDING ASSIGNMENT - Part One
+# MAGD 487 - RESUME BUILDING ASSIGNMENT - Part One and Two
 
-### Due Date: TBD - 100 Points
+### Due Date: TBD
+
+### Part One: 100 Points
 
 ## Objectives
 + Research job postings relevant to your field
@@ -28,3 +30,18 @@ Using [Resume Building Link](ResumeBuilding.md) for reference, create a resume f
 
 ### 4. Bring the two job postings, answer sheet, and your two resumes to class.
 We will share our resumes in class and discuss strategies on making them more effective.
+
+* * *
+
+### Part Two: 100 Points
+
+### 1. Revisions and Updates
+Based on the feedback from instructor and peers, make appropriate changes to your resumes. - 70 points
+
+### 2. On a separate paper answer these questions, referencing both job postings - 30 points
+1. What changes did you make to your resumes? Why?
+2. How do the changes in your resumes help you appear as a better candidate?
+3. 
+
+### 3. Bring the two job postings, original two resumes, and revised resumes to class.
+
