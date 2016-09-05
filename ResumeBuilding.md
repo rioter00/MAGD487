@@ -21,7 +21,7 @@
 3. Consider your resume as a marketing tool for yourself. You want to lead with the best relevant material.
 
 ### Getting Started - Gather your information
-Creating a resume is no small task because of the amount of relevant information. If you've never created one, below is a checklist to help you gather your information. Remember that your resume should be job-specific, so though you may not have to completely redo your resume for each job, plan to make adjustments for each opening.
+Creating a resume is no small task because of the amount of relevant information. If you've never created one, below is a checklist to help you gather your information. Remember that your resume should be job-specific, so though you may not have to completely redo your resume for each job, plan to make adjustments for each opening. Keeping a 'master' resume, from which you can pare down, with all your information will save you time each time you tailor for a new posting. 
 
 #### General Information
   - Name
@@ -59,7 +59,7 @@ Use active voice when highlighting experience.
 \* Some sources suggest using two sections 'Accomplishments' and 'Employment History', where the former highlights notable achievements (usually near the top of the resume).
 
 ### Tailoring your resume
-Your resume should be job-specific. If you are applying for a 2D background artist position, your private detective experience may be superfluous. Whether you choose to include them (2D art vs private detective experience) should depend on the job requirements.
+Your resume should be job-specific. If you are applying for a 2D background artist position, your private detective experience may be superfluous. Whether you choose to include elements (2D art vs private detective experience) should depend on the job requirements.
 
 #### Order
 Now that you have the basic elements gathered, consider the ordering of elements.
