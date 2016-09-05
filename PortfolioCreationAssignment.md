@@ -22,7 +22,7 @@
 
   > **How you will be graded**
   > At each step (almost), look for 'check in material' section. 
-  > As you progress through this assignment, bring _all completed material to each check-in_. 
+  > As you progress through this assignment, bring *all completed material to each check-in*. 
   > You will be graded on that material. 
   > While you may complete more than one step between check-ins, do not skip steps.
 
