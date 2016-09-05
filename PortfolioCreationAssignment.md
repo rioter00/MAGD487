@@ -19,7 +19,7 @@ Do not begin work on this project until after you've completed the [Portfolio Re
 1. Gather creative work
   - Locate and centralize creative work. If you are working with digital images, as you might have to resize these images, make sure you are working with duplicates/backups.
 
-  > **First Check In**
+  > **Check In Material**
   > - Bring a list of MAGD courses taken at UWW.
   > - Bring in all media that will be part of portfolio. This should be work created in the courses of MAGD courses (minimum) and other outside work.
   > - Having little or "nothing to show" or "lost everything" from previous courses will result in a low grade for this checkin. Do your due diligence by locating old media, search backups, and contacting past collaborators.
@@ -33,7 +33,7 @@ Do not begin work on this project until after you've completed the [Portfolio Re
   Be prepared to answer these questions?
   + What types of media are you looking to highlight? How?
 
-  > **Second Check In**
+  > **Check In Material**
   > - Bring sketches (ON PAPER) of your portfolio, showing layout, expected interactions.
   > - Show how the different types of media would look.
   > - Sketches should answer the follow questions:
@@ -56,7 +56,7 @@ Do not begin work on this project until after you've completed the [Portfolio Re
   - If grouping artifacts from a single project, a written description about the project (also known as case studies) give visitors insight on the project and process as a whole.
   - If had a contributor to work items, be sure to credit them.
 
-  > **Third Check In** (Steps 3 and 4)
+  > **Check In Material** (Steps 3 and 4)
   > - Bring all the formatted, converted, resized media.
   > - Bring in updated sketches.
   > - Bring written descriptions of projects/images/media/games.
@@ -76,11 +76,9 @@ Research web hosts and services. Some may cost money. Signup for one and begin a
 
 Upload content, format page(s).
 
-  > ** Fourth Check In**
-  > - Have the link to the live page
-
-6. fdf
-
+  > **Check In Material**
+  > - Have the link to the live page(s). 
 
 
 ## Implementing social media, analytics, linking
+To be updated. 
