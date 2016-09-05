@@ -1,10 +1,10 @@
 # MAGD 487 - Portfolio Development Project 
 
-[Part One](#part-one)
+[Part One](#part-one-200-points)
 
 [Part Two](#part-two-150-points)
 
-#### Part One: 
+#### Part One: 200 points
 
 ## Objectives
 + Research effective portfolios
