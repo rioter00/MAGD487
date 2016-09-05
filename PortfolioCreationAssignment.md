@@ -1,4 +1,4 @@
-# MAGD 487 - Portfolio Development Project
+# MAGD 487 - Portfolio Development Project - Part One
 
 ## Objectives
 + Research effective portfolios
