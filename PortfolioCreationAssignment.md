@@ -14,6 +14,12 @@
 ## Process
 #### Throughout this semester you will working through this project, with meetings of progress with the instructor. Each stage will have expected due-dates.
 
+  > **How you will be graded**
+  > At each step (almost), look for 'check in material' section. 
+  > As you progress through this assignment, bring all completed material to each check-in. 
+  > You will be graded on that material. 
+  > Do not skip skip steps.
+
 Do not begin work on this project until after you've completed the [Portfolio Research Assignment](PortfolioResearchAssignment.md).
 
 1. Gather creative work
