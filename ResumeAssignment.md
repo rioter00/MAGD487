@@ -46,6 +46,5 @@ Based on the feedback from instructor and peers, make appropriate changes to you
 ### 2. On a separate paper answer these questions, referencing both job postings - 30 points
 1. What changes did you make to your resumes? Why?
 2. How do the changes in your resumes help you appear as a better candidate?
-3. 
 
 ### 3. Bring the two job postings, original two resumes, and revised resumes to class.
