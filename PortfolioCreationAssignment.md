@@ -18,7 +18,7 @@
   > At each step (almost), look for 'check in material' section. 
   > As you progress through this assignment, bring all completed material to each check-in. 
   > You will be graded on that material. 
-  > Do not skip skip steps.
+  > While you may complete more than one step between check-ins, do not skip steps.
 
 Do not begin work on this project until after you've completed the [Portfolio Research Assignment](PortfolioResearchAssignment.md).
 
