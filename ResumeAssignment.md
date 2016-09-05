@@ -1,4 +1,8 @@
-# MAGD 487 - RESUME BUILDING ASSIGNMENT - Part One and Two
+# MAGD 487 - RESUME BUILDING ASSIGNMENT 
+
+[Part One](#Part-One:-100-Points)
+
+and Two
 
 ### Due Date: TBD
 
@@ -44,4 +48,3 @@ Based on the feedback from instructor and peers, make appropriate changes to you
 3. 
 
 ### 3. Bring the two job postings, original two resumes, and revised resumes to class.
-
