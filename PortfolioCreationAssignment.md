@@ -1,4 +1,9 @@
-# MAGD 487 - Portfolio Development Project - Part One
+# MAGD 487 - Portfolio Development Project 
+
+[Part One](#part-one)
+[Part Two](#part-two)
+
+## Part Two
 
 ## Objectives
 + Research effective portfolios
@@ -83,6 +88,18 @@ Research web hosts and services. Some may cost money. Signup for one and begin a
   > **Check-In Material**
   > - Have the link to the live page(s). 
 
+6. Prepare a presentation of your portfolio.
+
 
 ## Implementing social media, analytics, linking
 To be updated. 
+
+* * *
+
+## Part Two
+
+### 1. Make changes and adjustments to your portfolio.
+
+### 2. On a separate paper, note changes to your portfolio since the mid-semester presentation.
+
+### 3. Prepare a presentation of your portfolio and bring paper noting changes to class. 
