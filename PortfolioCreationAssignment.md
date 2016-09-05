@@ -63,7 +63,7 @@ Do not begin work on this project until after you've completed the [Portfolio Re
   > - All media should be grouped and organized.
 
 5. Create a webpage or Find a content management system. Examples below.
-Research web hosts and services. Some may cost money. Signup for one and begin adding content and formatting. If are using a CMS and have well organized your materials, this stage may not take much time.
+Research web hosts and services. Some may cost money. Signup for one and begin adding content and formatting. If are using a CMS and have well organized your materials, this stage may not take much time. Upload content, format page(s).
   - Examples of web content management systems.
     - https://www.behance.net (hosted)
     - https://carbonmade.com (hosted)
@@ -73,8 +73,6 @@ Research web hosts and services. Some may cost money. Signup for one and begin a
     - https://www.joomla.org (self-hosted)
     - http://squarespace.com (self-hosted)
     - http://github.com (markdown possible, some restrictions)
-
-Upload content, format page(s).
 
   > **Check In Material**
   > - Have the link to the live page(s). 
