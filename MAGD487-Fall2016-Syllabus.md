@@ -22,9 +22,9 @@
 ## Course Description
 As the culmination of the Media Arts and Game Development sequence, students taking this class will create a portfolio of their work in the MAGD program. Students will research effective portfolio building methods. Students will also search jobs in their market, create resumes, and practice creating cover letters.
 
-Through this course, we will video chat with various professionals in relevant fields, learning about their career trajectory. Students will be have QA sessions on job hunting, current field trends, and other relavent skills.
+Through this course, we will video chat with various professionals in relevant fields, learning about their career trajectory. Students will be have QA sessions on job hunting, current field trends, and other relevant skills.
 
-Through the semester, students will have the opportunity to meet and discuss career experiences with various industry professionals. 
+After an initial version is live, students will expand their portfolios with content projects.
 
 ## Course Objectives
 At the end of the course students will have:
@@ -114,7 +114,7 @@ WEEK	| DATE	| Presentations / Work | Assigned
 2	| 9/15/2016	| **Explanation of meetings with students, progress checks and work time** |   1. [Portfolio Research Assignment](PortfolioResearchAssignment.md)
 3	| 9/22/2016	| **Portfolio Research Presentations** |2. [Portfolio Development Project](PortfolioCreationAssignment.md) <br><br> 3. [Resume Building Assignment](ResumeAssignment.md)
 4	| \*9/29/2016	| Meetings with students, progress checks and work time |
-5	| 10/06/2016	| Meetings with students, progress checks and work time | 4. Cover Letter Assignment
+5	| 10/06/2016	| Meetings with students, progress checks and work time <br> - Chris D. - | 4. Cover Letter Assignment
 6	| \*10/13/2016	| Meetings with students, progress checks and work time  |
 7	| \*10/20/2016	| Meetings with students, progress checks and work time |
 8	| 10/27/2016	| **Resume and Cover Letter Presentations and Workshop** |
@@ -122,6 +122,6 @@ WEEK	| DATE	| Presentations / Work | Assigned
 10	| 11/10/2016	| Meetings with students, progress checks and work time |
 11	| 11/17/2016	| Meetings with students, progress checks and work time |
 12	| 11/24/2016	|  \**Thanksgiving*\* |
-13	| 12/01/2016	| Meetings with students, progress checks and work time |
+13	| 12/01/2016	| Meetings with students, progress checks and work time <br> - Carolyn B - |
 14	| 12/08/2016	| Meetings with students, progress checks and work time |
 Exam	| 12/15/2016	| **Final Portfolio presentations, Final Portfolio due, Revised Resume due**  |
