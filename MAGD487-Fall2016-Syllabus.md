@@ -121,5 +121,5 @@ WEEK	| DATE	| Presentations / Work | Assigned
 11	| 11/17/2016	| Meetings with students, progress checks and work time |
 12	| 11/24/2016	|  \**Thanksgiving*\* |
 13	| 12/01/2016	| Meetings with students, progress checks and work time |
-14	| 12/08/2016	| Resume presentations and workshop  |
+14	| 12/08/2016	| Meetings with students, progress checks and work time |
 Exam	| 12/15/2016	| **Final Portfolio presentations, Final Portfolio due, Revised Resume due**  |
