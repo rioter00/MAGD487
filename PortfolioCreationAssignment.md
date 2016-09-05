@@ -3,7 +3,7 @@
 [Part One](#part-one)
 [Part Two](#part-two)
 
-## Part Two
+## Part One
 
 ## Objectives
 + Research effective portfolios
@@ -17,7 +17,7 @@
 > *A select collection of media created by an individual or groups of individuals, showcasing work to possibly attract employers and  clients, create a branding identity, increase visibility, and create a communications channel to followers.*
 
 ## Process
-#### Throughout this semester you will working through this project, with meetings of progress with the instructor. Each stage will have expected due-dates.
+#### For the first half this semester you will working through this project, with meetings of progress with the instructor. Each stage will have expected materials that will be graded.
 
   > **How you will be graded**
   > At each step (almost), look for 'check in material' section. 
@@ -98,8 +98,11 @@ To be updated.
 
 ## Part Two
 
-### 1. Make changes and adjustments to your portfolio.
+## Process
+#### The second half of the semester, as you work on portfolio-expanding content, you will make adjustments to your portfolio. 
 
-### 2. On a separate paper, note changes to your portfolio since the mid-semester presentation.
+1. Make changes and adjustments to your portfolio.
 
-### 3. Prepare a presentation of your portfolio and bring paper noting changes to class. 
+2. On a separate paper, note changes to your portfolio since the mid-semester presentation.
+
+3. Prepare a presentation of your portfolio and bring paper noting changes to class. 
