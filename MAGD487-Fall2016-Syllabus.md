@@ -118,8 +118,8 @@ WEEK	| DATE	| Presentations / Work | Assigned
 6	| 10/13/2016	| \**No Class*\* |
 7	| 10/20/2016	| \**No Class*\* |
 8	| 10/27/2016	| \**No Class*\* |
-9	| 11/03/2016	| **Resume and Cover Letter Presentations and Workshop** | 
-10	| 11/10/2016	| **6. Mid-semester portfolio/project presentation** | 7. Portfolio Expansion Projects Outlined
+9	| 11/03/2016	| **Resume and Cover Letter Presentations and Workshop** | 7. Portfolio Expansion Projects Outlined
+10	| 11/10/2016	| **6. Mid-semester portfolio/project presentation** | 
 11	| 11/17/2016	| Meetings with students, progress checks and work time |
 12	| 11/24/2016	|  \**Thanksgiving*\* |
 13	| 12/01/2016	| Meetings with students, progress checks and work time <br> - Carolyn B - |
