@@ -21,7 +21,7 @@ The aspects of effective portfolio will be part of in-class discussion based on 
 - http://joomla.com
 - http://squarespace.com
 - http://github.com
-- wix.com
+- http://wix.com
 
 ***
 ## Assignment
