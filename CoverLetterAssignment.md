@@ -14,6 +14,15 @@
 + [Harvard Business](https://hbr.org/2014/02/how-to-write-a-cover-letter)
 + [Monster](http://www.monster.com/career-advice/article/sample-cover-letter)
 
+## Summary
+This is 1/3 of job application materials you might work on -- (Portfolio and Resume being the other two), the goal of which is to convince a potential employer to interview you. The cover should convey your ability to communicate clearly and fill in the gaps between the resume and portfolio. Cover letter should be tailered for each individual job opening, which research into to the position, company, hirer (person looking to hire and possible vetters) -- this part of your due diligence. The basic format of a letter typical follows:
+
++ Introduce yourself to the hiring manager 
++ Argue why you’d be a good fit for the job
++ Fill in places your resume cannot describe
++ Further explain other aspects of your resume
+
+
 <br>
 
 + [Example Letters, Sorted by Industry](https://resumegenius.com/cover-letters-the-how-to-guide#Cover%20Letter%20Samples)
