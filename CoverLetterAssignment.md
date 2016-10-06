@@ -26,7 +26,8 @@ This is 1/3 of job application materials you might work on -- (Portfolio and Res
 
 + [Example Letters, Sorted by Industry](https://resumegenius.com/cover-letters-the-how-to-guide#Cover%20Letter%20Samples)
 
-
+<hr>
+# Assignment
 ### 1. Write Two Cover Letters for the two job postings you previously found - 90 points
 + Regardless if the job posting asks for a cover letter. 
 
