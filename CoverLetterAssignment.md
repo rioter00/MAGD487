@@ -24,8 +24,6 @@ This is 1/3 of job application materials you might work on -- (Portfolio and Res
 + Further explain other aspects of your resume
 + Close: Briefly recap your strengths as a candidate, and include your contact information.
 
-<br>
-
 + [Example Letters, Sorted by Industry](https://resumegenius.com/cover-letters-the-how-to-guide#Cover%20Letter%20Samples)
 
 
