@@ -17,11 +17,12 @@
 ## Summary
 This is 1/3 of job application materials you might work on -- (Portfolio and Resume being the other two), the goal of which is to convince a potential employer to interview you. The cover should convey your ability to communicate clearly and fill in the gaps between the resume and portfolio. Cover letter should be tailered for each individual job opening, which research into to the position, company, hirer (person looking to hire and possible vetters) -- this part of your due diligence. The basic format of a letter typical follows:
 
-+ Introduce yourself to the hiring manager 
-+ Argue why you’d be a good fit for the job
-+ Fill in places your resume cannot describe
++ Greeting: Introduce yourself to the hiring manager 
++ Opening: Write a personable, inviting opening paragraph that highlights how your skills are a perfect fit to the job.
++ Hook: Argue why you’d be a good fit for the job
++ Fill in places your resume cannot describe, Highlight additional relevant skills, such as computer languages or certifications.
 + Further explain other aspects of your resume
-
++ Close: Briefly recap your strengths as a candidate, and include your contact information.
 
 <br>
 
