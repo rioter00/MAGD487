@@ -22,10 +22,10 @@
 
 ### 2. Bring 2 copies each to class. These will be handed out and discussed at class time.
 
-#### Procedure and Notes:
-(http://writing.wisc.edu/Handbook/CoverLetters.html)
-
 <hr>
+
+# Procedure and Notes:
+(http://writing.wisc.edu/Handbook/CoverLetters.html)
 
 ## What is a cover letter?
 
