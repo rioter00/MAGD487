@@ -17,10 +17,10 @@
 + [Example Letters, Sorted by Industry](https://resumegenius.com/cover-letters-the-how-to-guide#Cover%20Letter%20Samples)
 
 
-### 1. Write Two Cover Letters for the two job postings you previously found- 20 points
+### 1. Write Two Cover Letters for the two job postings you previously found - 90 points
 + Regardless if the job posting asks for a cover letter. 
 
-### 2. Bring 2 copies each to class. These will be handed out and discussed at class time.
+### 2. Bring 2 copies each to class. These will be handed out and discussed at class time.  - 10 points
 
 <hr>
 
