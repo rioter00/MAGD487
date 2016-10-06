@@ -14,6 +14,7 @@
 + [Harvard Business](https://hbr.org/2014/02/how-to-write-a-cover-letter)
 + [Monster](http://www.monster.com/career-advice/article/sample-cover-letter)
 
+
 + [Example Letters, Sorted by Industry](https://resumegenius.com/cover-letters-the-how-to-guide#Cover%20Letter%20Samples)
 
 
