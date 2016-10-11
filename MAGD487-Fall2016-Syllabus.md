@@ -86,7 +86,7 @@ Assignment | Value
 8. Final Portfolio and Revised Resume | 250
 **Total** | **1500**
 
-It is your responsibility to keep track of your grades over the course of the semester. Your grades are posted on D2L and can be checked at any time. You earn your grades by the degree to which you meet the requirements of the assignments. If you find that you are not doing as well as you would like to be doing, you can meet with me to discuss extra credit projects BEFORE the end of the semester. If you feel that I have made a mistake recording a grade that you earned, I encourage you to email me, politely, so that it can be corrected.  
+It is your responsibility to keep track of your grades over the course of the semester. Your grades are posted on D2L and can be checked at any time. You earn your grades by the degree to which you meet the requirements of the assignments. If you find that you are not doing as well as you would like to be doing, you can meet with me to discuss extra credit projects BEFORE the end of the semester. If you feel that I have made a mistake recording a grade that you earned, I encourage you to email me, politely, so that it can be corrected.
 
 ## Grading Scale
 Grade	| Percentage Range |	Grade Interpretation
@@ -103,7 +103,7 @@ D+	| 67 - 69	| Below average performance.
 D	| 64 - 66	| Below average performance.
 D-	| 60 - 63	| Below average performance.
 F	| 0 - 59	| Poor/Fail
-
+
 ## Tentative Schedule
 Dates and topics subject to change
 
@@ -120,7 +120,7 @@ WEEK	| DATE	| Presentations / Work | Assigned
 8	| 10/27/2016	| \**No Class*\* |
 9	| 11/03/2016	| **Resume and Cover Letter Presentations and Workshop** | 7. Portfolio Expansion Projects Outlined
 10	| 11/10/2016	| **6. Mid-semester portfolio/project presentation** | 
-11	| 11/17/2016	| Meetings with students, progress checks and work time |
+11	| 11/17/2016	| Meetings with students, progress checks and work time <br> - Indie Gaming - |
 12	| 11/24/2016	|  \**Thanksgiving*\* |
 13	| 12/01/2016	| Meetings with students, progress checks and work time <br> - Carolyn B - |
 14	| 12/08/2016	| Meetings with students, progress checks and work time |
