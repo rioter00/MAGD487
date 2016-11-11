@@ -14,10 +14,8 @@ These projects may be created individually or as a group
 2. Each project plan must
 	+	Be Digitally produced (Microsoft Word, Google Docs)
 	+ Address stages of _weekly_ progress including:
-		1. 'first prototype'
-		2. 'peer review'
-		3. 'revision'
-		4. 'final'
+		1. 'peer review' - Dec 1,8
+		3. 'final' - Dec 15
 
 	> *Example:*<br>
 	> Week 1 - Research (tech, models, concept)<br>
