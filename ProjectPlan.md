@@ -2,7 +2,7 @@
 
 Due  | Value
 ------- | -------
-Dec 15 | 100 Points Each
+Nov 15 | 100 Points Each
 
 ## Objectives
 + Produce plans for at least **two** portfolio-quality projects
@@ -14,15 +14,15 @@ These projects may be created individually or as a group
 2. Each project plan must
 	+	Be Digitally produced (Microsoft Word, Google Docs)
 	+ Address stages of _weekly_ progress including:
-		1. 'peer review' - Dec 1,8
+		1. 'peer review' - Either Dec 1 or 8
 		3. 'final' - Dec 15
 
 	> *Example:*<br>
 	> Week 1 - Research (tech, models, concept)<br>
 	> Week 2 - sketches finished <br>
-	> Week 4 - first prototype finished <br>
-	> Week 7 - peer review and revisioning
-	> Week 8 - final version complete
+	> Week 3 - first prototype finished <br>
+	> Week 4 - peer review and revisioning
+	> Week 5 - final version complete
 
 
 Plans for collaborative projects must address each collaborator's weekly check point.
