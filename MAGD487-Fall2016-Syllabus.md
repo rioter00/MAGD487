@@ -124,4 +124,4 @@ WEEK	| DATE	| Presentations / Work | Assigned
 12	| 11/24/2016	|  \**Thanksgiving*\* |
 13	| 12/01/2016	| Meetings with students, progress checks and work time <br> - Carolyn B - |
 14	| 12/08/2016	| Meetings with students, progress checks and work time |
-Exam	| 12/15/2016	| **Final Portfolio presentations, Final Portfolio due, Revised Resume due**  |
+Exam	| 12/21/2016	| **Final Portfolio, Final Portfolio due, Revised Resume due** Submit to D2L  |
