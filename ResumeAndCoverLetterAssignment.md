@@ -16,21 +16,21 @@
 + http://www.indeed.com/q-Game-Artist-jobs.html
 + https://www.glassdoor.com/Job/concept-artist-jobs-SRCH_KO0,14.htm
 
-### 1. Find two job postings relevant to your field that could see yourself applying - 10 points
+### 1. Find two job postings relevant to your field that could see yourself applying - 15 points
 Job postings generally include a written description of the job, required qualifications, non-required/preferred qualifications, and desired soft skills.
 
 Use any resource to find two recent job postings. Print out the postings. Highlight each aspect listed above.
 
-### 2. On a separate paper answer these questions, referencing both job postings - 10 points
+### 2. On a separate paper answer these questions, referencing both job postings - 15 points
 1. What aspects of this job are enticing to you?
 2. At present, do you feel qualified enough to apply for either posting? Give supporting reasons. 
 3. Are there required qualifications that you lack? Which ones?
 4. Can you see yourself acquiring a majority of those qualifications?
 
-### 3. Create a resume for each job posting - 30 points
+### 3. Create a resume for each job posting - 30 points per resume
 Using [Resume Building Link](ResumeBuilding.md) for reference, create a resume for each job posting.
 
-### 4. Create a cover letter for each job posting - 50 points 
+### 4. Create a cover letter for each job posting - 30 points per cover letter
 Cover letters generally take on a third part form, all of which is a part of the marketing tool to sell yourself to potential employees. One of the goals of the cover letter is get the hirer to look at your resume and ultimately an interview. 
 
 1. Introduction of your as appropriate candidate for the specific job with a brief qualifying sentence. 
@@ -51,8 +51,8 @@ We will share our resumes in class and discuss strategies on making them more ef
 
 # Part Two: 100 Points
 
-### 1. Revisions and Updates
-Based on the feedback from instructor and peers, make appropriate changes to your resumes. - 70 points
+### 1. Revisions and Updates - 70 points
+Based on the feedback from instructor and peers, make appropriate changes to your resumes. 
 
 ### 2. On a separate paper answer these questions, referencing both job postings - 30 points
 1. What changes did you make to your resumes? Why?
