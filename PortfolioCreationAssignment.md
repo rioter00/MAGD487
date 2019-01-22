@@ -32,9 +32,9 @@ Do not begin work on this project until after you've completed the [Portfolio Re
   - Locate and centralize creative work. If you are working with digital images, as you might have to resize these images, make sure you are working with duplicates/backups.
 
   > **Check-In Material**
-  > - Bring a list of MAGD courses taken at UWW.
-  > - Bring in all media that will be part of portfolio. This should be work created in the courses of MAGD courses (minimum) and other outside work.
-  > - Having little or "nothing to show" or "lost everything" from previous courses will result in a low grade for this checkin. Do your due diligence by locating old media, search backups, and contacting past collaborators.
+  > [] Bring a list of MAGD courses taken at UWW.
+  > [] Bring in all media that will be part of portfolio. This should be work created in the courses of MAGD courses (minimum) and other outside work.
+  > [] Having little or "nothing to show" or "lost everything" from previous courses will result in a low grade for this checkin. Do your due diligence by locating old media, search backups, and contacting past collaborators.
 
 2. On paper, layout (sketches) your portfolio. Consider the following
   + style/theme (Layout, Typeface, Density, Linking to Project)
@@ -46,15 +46,15 @@ Do not begin work on this project until after you've completed the [Portfolio Re
   + What types of media are you looking to highlight? How?
 
   > **Check-In Material**
-  > - Bring sketches (ON PAPER) of your portfolio, showing layout, expected interactions.
-  > - Show how the different types of media would look.
-  > - Sketches should answer the follow questions:
-  >   - What is the layout? Single Page? Multi-page?
-  >   - How are images shown? Gallery? Carousel/Sliders? Accent image?
-  > - How do you attain focus?
-  > - Any particular type-facing?
-  > - About Page?
-  > - Blog Page? What would you blog about?
+  > [] Bring sketches (ON PAPER) of your portfolio, showing layout, expected interactions.
+  > [] Show how the different types of media would look.
+  > [] Sketches should answer the follow questions:
+  >   - [] What is the layout? Single Page? Multi-page?
+  >   - [] How are images shown? Gallery? Carousel/Sliders? Accent image?
+  > [] How do you attain focus?
+  > [] Any particular type-facing?
+  > [] About Page?
+  > [] Blog Page? What would you blog about?
 
 3. Clean up media and create artifacts of creative work (images, videos, descriptions).
   - When creating digital images, consider that a common width for websites is 960px.
