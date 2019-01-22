@@ -72,7 +72,7 @@ The University of Wisconsin-Whitewater is dedicated to a safe, supportive and no
 Assignment | Value | Details
 -----------|-------|-----
 1- Portfolio Research Presentation 	| 100 		| [Portfolio Research Assignment](PortfolioResearchAssignment.md)
-2- Portfolio Design and Plan 		| 100 		| [Portfolio Development Project](PortfolioCreationAssignment.md)
+2- Portfolio Design and Plan 		| 100 		| [Portfolio Development Assignment](PortfolioCreationAssignment.md)
 3- Resume Building Assignment 		| 150 		| [Resume Building Assignment](ResumeAssignment.md)
 4- Cover Letter Assignment 		| 100 		| [Cover Letter Assignment](CoverLetterAssignment.md)
 5- Progress Check-Ins 			| 100 x 5 	| 
@@ -107,7 +107,7 @@ Dates and topics subject to change
 WEEK	| DATE	| Presentations / Work | Assigned
 ------| ------| -------------------- | --------:
 1	| 1/22/2019	| Introduction to the class | 1. [Portfolio Research Assignment](PortfolioResearchAssignment.md)
-2	| 1/29/2019	| **Explanation of meetings with students, progress checks and work time** | 2. [Portfolio Development Project](PortfolioCreationAssignment.md) <br><br> 3. [Resume Building Assignment](ResumeAssignment.md)
+2	| 1/29/2019	| **Explanation of meetings with students, progress checks and work time** | 2. [Portfolio Development Assignment](PortfolioCreationAssignment.md) <br><br> 3. [Resume Building Assignment](ResumeAssignment.md)
 3	| 2/5/2019	| **Portfolio Research Presentations** | 4. [Cover Letter Assignment](CoverLetterAssignment.md)
 4	| 2/11/2019	| Meetings with students, progress checks and work time | [ProjectPlan](ProjectPlan.md)
 5	| 2/19/2019	| Meetings with students, progress checks and work time | 
