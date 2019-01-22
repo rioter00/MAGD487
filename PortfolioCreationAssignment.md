@@ -61,7 +61,7 @@ Do not begin work on this project until after you've completed the [Portfolio Re
 
 ***
 3. Clean up media and create artifacts of creative work (images, videos, descriptions).
-  - [ ] When creating digital images, consider that a common width for websites is 960px.
+  - [ ] When creating digital images, consider that a common width for websites is 960px. Is your portfolio mobile friendly? Responsive? How?
   - [ ] Create photographs of physical objects.
   - [ ] Record videos of gameplay, animations.
   - [ ] Resize/Crop images and videos.
