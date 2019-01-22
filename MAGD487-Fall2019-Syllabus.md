@@ -1,5 +1,5 @@
 # MAGD 487 - Syllabus
-## Advanced MAGD Team Projects
+## Advanced MAGD Team Projects - Portfolio Creation
 ## Syllabus – Spring 2019
 
 - Instructor: Nick Hwang
