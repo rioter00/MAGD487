@@ -6,6 +6,7 @@
 - Office: McGraw 105
 - Office Hours: TBD
 
+
 - Contact Details:
 	-	Office Phone: (262) 472-1725
 	- Email: hwangn@uww.edu
@@ -13,7 +14,9 @@
 	- Meeting Location: McGraw 127
 	- Exam: TBA
 
+
 - [UWW Academic Calendars](https://www.uww.edu/Documents/registrar/Calendars/2018-2019/2018-19%20Calendar%206-22-2017%20APPROVED(0).pdf)
+
 
 ## Course Description
 As the culmination of the Media Arts and Game Development sequence, students taking this class will 1. create a portfolio of their work in the MAGD program After an initial version is live, students 2. will expand their portfolios with content projects. Students will research effective portfolio building methods. Students will also search jobs in their market, create resumes, and practice creating cover letters.
