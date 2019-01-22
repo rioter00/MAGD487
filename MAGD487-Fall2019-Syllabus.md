@@ -71,11 +71,11 @@ The University of Wisconsin-Whitewater is dedicated to a safe, supportive and no
 ## Assignments
 Assignment | Value
 ------- | ------:
-1. Portfolio Research Presentation | 100
+1. Portfolio Research Presentation | 100 
 2. Portfolio Design and Plan | 100
 3. Resume Building Assignment | 150
 4. Cover Letter Assignment | 100
-5. Progress Checks | 100 x 5
+5. Progress Check-Ins | 100 x 5 | 
 6. Mid-Semester Portfolio/Project Presentation | 200
 7. Portfolio Expansion Projects Outlined | 100
 8. Final Portfolio and Revised Resume | 250
@@ -106,21 +106,21 @@ Dates and topics subject to change
 
 WEEK	| DATE	| Presentations / Work | Assigned
 ------| ------| -------------------- | --------:
-1	| 1/22/2019	| Introduction to the class |   
-2	| 1/29/2019	| **Explanation of meetings with students, progress checks and work time** |   1. [Portfolio Research Assignment](PortfolioResearchAssignment.md)
-3	| 2/5/2019	| **Portfolio Research Presentations** |2. [Portfolio Development Project](PortfolioCreationAssignment.md) <br><br> 3. [Resume Building Assignment](ResumeAssignment.md)
-4	| 2/11/2019	| Meetings with students, progress checks and work time |
-5	| 2/19/2019	| Meetings with students, progress checks and work time | 4. [Cover Letter Assignment](CoverLetterAssignment.md)
-6	| 2/26/2019	| Meetings with students, progress checks and work time <br> - Chris D. -|
-7	| 3/5/2019	| \**No Class*\* |
-8	| 3/12/2019	| \**No Class*\* |
-9	| 3/19/2019	| **Resume and Cover Letter Presentations and Workshop** | 7. Portfolio Expansion Projects Outlined
-10	| 3/26/2019	| **6. Mid-semester portfolio/project presentation** | [ProjectPlan](ProjectPlan.md)
-11	| 4/2/2019	| Meetings with students, progress checks and work time <br> - Indie Gaming - |
-12	| 4/9/2019	|  \**Thanksgiving*\* |
-13	| 4/16/2019	| Meetings with students, progress checks and work time <br> - Carolyn B - |
+1	| 1/22/2019	| Introduction to the class | 1. [Portfolio Research Assignment](PortfolioResearchAssignment.md)
+2	| 1/29/2019	| **Explanation of meetings with students, progress checks and work time** | 2. [Portfolio Development Project](PortfolioCreationAssignment.md) <br><br> 3. [Resume Building Assignment](ResumeAssignment.md)
+3	| 2/5/2019	| **Portfolio Research Presentations** | 4. [Cover Letter Assignment](CoverLetterAssignment.md)
+4	| 2/11/2019	| Meetings with students, progress checks and work time | [ProjectPlan](ProjectPlan.md)
+5	| 2/19/2019	| Meetings with students, progress checks and work time | 
+6	| 2/26/2019	| Meetings with students, progress checks and work time | 7. Portfolio Expansion Projects Outlined
+7	| 3/5/2019	| **Resume and Cover Letter Presentations and Workshop** |
+8	| 3/12/2019	| Meetings with students, progress checks and work time |
+9	| 3/19/2019	| **6. Mid-semester portfolio/project presentation** | 
+10	| 3/26/2019	| \**No Class*\* - Spring Break | 
+11	| 4/2/2019	| Meetings with students, progress checks and work time |
+12	| 4/9/2019	| Meetings with students, progress checks and work time |
+13	| 4/16/2019	| Meetings with students, progress checks and work time |
 14	| 4/23/2019	| Meetings with students, progress checks and work time |
 15	| 4/30/2019	| **Final Project, Final Portfolio due, Revised Resume due** Submit to D2L  |
 16	| 5/7/2019	| EXPO Preparation
-Exam	| 5/13/2019	| TIME TBA: FINAL PRESENTATIONS
+Exam	| 5/13/2019	| TIME TBA: FINAL PROJECT PRESENTATIONS
 
