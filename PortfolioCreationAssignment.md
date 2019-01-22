@@ -1,6 +1,6 @@
 # MAGD 487 - Portfolio Development Project 
 
-[Part One: Portfolio Creation] (#part1) - Due 3/19
+[Part One: Portfolio Creation](#part1) - Due 3/19
 
 [Part Two: Portfolio Revisions](#part-two-150-points) - Due 4/30
 
