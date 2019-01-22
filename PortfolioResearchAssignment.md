@@ -20,12 +20,12 @@ The aspects of effective portfolio will be part of in-class discussion based on 
 - https://carbonmade.com 
 
 ***
-## Assignment
+## Assignment -- there is a written (typed) portion and a presentation portion. 
 ### 1. Find four well-made portfolios of non-student individuals who do similar work to you.
 You will explain why who you chose portfolios and why you think they are well-made.
 
 ### 2. Examine the Portfolios - 50 pts
-In a typed document -- submitted to canvas **by the start of class/** answer the follow questions. Short answer allowed. 
+In a **typed/** document -- submitted to CANVAS **by the start of class/** answer the follow questions. Short answer allowed. 
 1. Whose portfolios did you examine? -- provide web address.
 2. How are these  portfolios different and similar?
 3. What media does each individual create (3D models, concept art, character animations, web-art, interactive art, sound art, video game backend, etc.) Do they create more than one?
