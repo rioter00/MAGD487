@@ -4,7 +4,7 @@
 
 [Revisions](#part-two-100-points) - Due 4/30
 
-# Part One: 200 Points
+# Part One: 150 Points
 
 ## Objectives
 + Research job postings relevant to your field
