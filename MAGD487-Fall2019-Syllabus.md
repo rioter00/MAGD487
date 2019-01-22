@@ -69,8 +69,8 @@ All work that you turn in should be your own. This includes text, images, audio 
 The University of Wisconsin-Whitewater is dedicated to a safe, supportive and non-discriminatory learning environment.  It is the responsibility of all undergraduate and graduate students to familiarize themselves with University policies regarding Special Accommodations, Academic Misconduct, Religious Beliefs Accommodation, Discrimination and Absence for University Sponsored Events (for details please refer to the Schedule of Classes; the 'Rights and Responsibilities' section of the Undergraduate Catalog; the Academic Requirements and Policies and the Facilities and Services sections of the Graduate Catalog; and the 'Student Academic Disciplinary Procedures (UWS Chapter 14); and the 'Student Nonacademic Disciplinary Procedures' (UWS Chapter 17).
 
 ## Assignments
-Assignment | Value | Detail
-------- | ------: | 
+Assignment | Value | Detail 
+------- | ------: | -----
 1. Portfolio Research Presentation | 100 - [Portfolio Research Assignment](PortfolioResearchAssignment.md)
 2. Portfolio Design and Plan | 100 - [Portfolio Development Project](PortfolioCreationAssignment.md)
 3. Resume Building Assignment | 150 - 3. [Resume Building Assignment](ResumeAssignment.md)
