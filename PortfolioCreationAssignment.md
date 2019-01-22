@@ -46,15 +46,15 @@ Do not begin work on this project until after you've completed the [Portfolio Re
   + What types of media are you looking to highlight? How?
 
   > **Check-In Material**
-  > [] Bring sketches (ON PAPER) of your portfolio, showing layout, expected interactions.
-  > [] Show how the different types of media would look.
-  > [] Sketches should answer the follow questions:
-  >   - [] What is the layout? Single Page? Multi-page?
-  >   - [] How are images shown? Gallery? Carousel/Sliders? Accent image?
-  > [] How do you attain focus?
-  > [] Any particular type-facing?
-  > [] About Page?
-  > [] Blog Page? What would you blog about?
+  > [ ] Bring sketches (ON PAPER) of your portfolio, showing layout, expected interactions.
+  > [ ] Show how the different types of media would look.
+  > [ ] Sketches should answer the follow questions:
+  >   - [ ] What is the layout? Single Page? Multi-page?
+  >   - [ ] How are images shown? Gallery? Carousel/Sliders? Accent image?
+  > [ ] How do you attain focus?
+  > [ ] Any particular type-facing?
+  > [ ] About Page?
+  > [ ] Blog Page? What would you blog about?
 
 3. Clean up media and create artifacts of creative work (images, videos, descriptions).
   - When creating digital images, consider that a common width for websites is 960px.
