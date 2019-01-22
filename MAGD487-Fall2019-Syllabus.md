@@ -6,7 +6,6 @@
 - Office: McGraw 105
 - Office Hours: TBD
 
-
 - Contact Details:
 	-	Office Phone: (262) 472-1725
 	- Email: hwangn@uww.edu
@@ -14,9 +13,7 @@
 	- Meeting Location: McGraw 127
 	- Exam: TBA
 
-
 - [UWW Academic Calendars](https://www.uww.edu/Documents/registrar/Calendars/2018-2019/2018-19%20Calendar%206-22-2017%20APPROVED(0).pdf)
-
 
 ## Course Description
 As the culmination of the Media Arts and Game Development sequence, students taking this class will 1. create a portfolio of their work in the MAGD program After an initial version is live, students 2. will expand their portfolios with content projects. Students will research effective portfolio building methods. Students will also search jobs in their market, create resumes, and practice creating cover letters.
@@ -111,7 +108,7 @@ WEEK	| DATE	| Presentations / Work | Assigned
 5	| 2/19/2019	| Progress checks and work time | 
 6	| 2/26/2019	| Progress checks and work time | 6. [Project Plan](ProjectPlan.md)
 7	| 3/5/2019	| **3. Resume and Cover Letter Presentations and Workshop** |
-8	| 3/12/2019	| **2. Portfolio Presentations** |
+8	| 3/12/2019	| **5. Portfolio Presentations** |
 9	| 3/19/2019	| **6. Project Plans Due** | 
 10	| 3/26/2019	| \**No Class*\* - Spring Break | 
 11	| 4/2/2019	| Progress checks and work time |
