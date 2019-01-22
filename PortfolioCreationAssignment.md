@@ -38,6 +38,7 @@ Do not begin work on this project until after you've completed the [Portfolio Re
   > - [ ] Bring in all media that will be part of portfolio. This should be work created in the courses of MAGD courses (minimum) and other outside work.
   > - Having little or "nothing to show" or "lost everything" from previous courses will result in a low grade for this checkin. Do your due diligence by locating old media, search backups, and contacting past collaborators.
 
+***
 2. On paper, layout (sketches) your portfolio. Consider the following
   + style/theme (Layout, Typeface, Density, Linking to Project)
   + method of creation (HTML? Content Management System?)
@@ -58,6 +59,7 @@ Do not begin work on this project until after you've completed the [Portfolio Re
   > - [ ] About Page?
   > - [ ] Blog Page? What would you blog about?
 
+***
 3. Clean up media and create artifacts of creative work (images, videos, descriptions).
   - [ ] When creating digital images, consider that a common width for websites is 960px.
   - [ ] Create photographs of physical objects.
@@ -66,6 +68,7 @@ Do not begin work on this project until after you've completed the [Portfolio Re
   - [ ] Convert formats to conform with web standards.
   - [ ] Note that many Content Management Systems may automatically resize, crop, and edit photos. If you plan on writing your ```code```, note that you might have to create your thumbnails, etc.
 
+***
 4. Write descriptions of individual artifacts and larger projects.
   - [ ] If grouping artifacts from a single project, a written description about the project (also known as case studies) give visitors insight on the project and process as a whole.
   - [ ] If had a contributor to work items, be sure to credit them.
@@ -76,9 +79,11 @@ Do not begin work on this project until after you've completed the [Portfolio Re
   > - [ ] Bring written descriptions of projects/images/media/games.
   > - [ ] All media should be grouped and organized.
 
+***
 5. Create a webpage or Find a content management system. Examples below.
 Research web hosts and services. Some may cost money. Signup for one and begin adding content and formatting. If are using a CMS and have well organized your materials, this stage may not take much time. Upload content, format page(s).
   - Examples of web content management systems.
+    - https://artstation.com
     - https://www.behance.net (hosted)
     - https://carbonmade.com (hosted)
     - http://wordpress.com (hosted)
@@ -92,6 +97,7 @@ Research web hosts and services. Some may cost money. Signup for one and begin a
   > - [ ] Have the link to the live page(s).
   > - [ ] All linked media and pages should run and open. Dead links may result in lower evaluation. 
 
+***
 6. Prepare a presentation of your portfolio.
 
 
