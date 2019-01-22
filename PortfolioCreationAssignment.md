@@ -6,7 +6,7 @@
 
 
 <a named="part1"></a> 
-# Part One: Portfolio Creation - 200 points
+# Part One: Portfolio Creation - 200 points - Due 3/19
 
 ## Objectives
 + Research effective portfolios
@@ -107,7 +107,7 @@ To be updated.
 * * *
 
 <a name="part2"></a>
-# Part Two: Portfolio Revisions 150 points
+# Part Two: Portfolio Revisions - 150 points - Due 3/19
 
 ## Process
 #### The second half of the semester, as you work on portfolio-expanding content, you will make adjustments to your portfolio. 
