@@ -1,6 +1,6 @@
 # MAGD 487 - Portfolio Development Project 
 
-[Part One](#part-one-200-points)
+[Part One](#part-one-200-points) - Due 
 
 [Part Two](#part-two-150-points)
 
