@@ -1,10 +1,10 @@
 # MAGD 487 - Portfolio Development Project 
 
-[Part One](#part-one-200-points) - Due 
+[Part One: Portfolio Creation] (#part-one-portfolio-creation-200-points) - Due 3/19
 
-[Part Two](#part-two-150-points)
+[Part Two: Portfolio Revisions](#part-two-150-points) - Due 4/30
 
-#### Part One: 200 points
+#### Part One: Portfolio Creation - 200 points
 
 ## Objectives
 + Research effective portfolios
@@ -98,7 +98,7 @@ To be updated.
 
 * * *
 
-#### Part Two: 150 points
+#### Part Two: Portfolio Revisions 150 points
 
 ## Process
 #### The second half of the semester, as you work on portfolio-expanding content, you will make adjustments to your portfolio. 
