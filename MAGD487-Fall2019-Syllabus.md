@@ -106,12 +106,12 @@ WEEK	| DATE	| Presentations / Work | Assigned
 ------| ------| -------------------- | --------:
 1	| 1/22/2019	| Introduction to the class | 1. [Portfolio Research Assignment](PortfolioResearchAssignment.md)
 2	| 1/29/2019	| **Explanation of meetings with students, progress checks and work time** | 2. [Portfolio Development Assignment](PortfolioCreationAssignment.md) <br><br> 3. [Resume and Cover Letter Building Assignment](ResumeAndCoverLetterAssignment.md.md)<br><br> 4. [Progress Checks](ProgressChecks.md)
-3	| 2/5/2019	| **Portfolio Research Presentations** | 
+3	| 2/5/2019	| **1. Portfolio Research Presentations** | 
 4	| 2/11/2019	| Progress checks and work time | 
 5	| 2/19/2019	| Progress checks and work time | 
 6	| 2/26/2019	| Progress checks and work time | 6. [Project Plan](ProjectPlan.md)
-7	| 3/5/2019	| **Resume and Cover Letter Presentations and Workshop** |
-8	| 3/12/2019	| **5. Portfolio Presentations** |
+7	| 3/5/2019	| **3. Resume and Cover Letter Presentations and Workshop** |
+8	| 3/12/2019	| **2. Portfolio Presentations** |
 9	| 3/19/2019	| **6. Project Plans Due** | 
 10	| 3/26/2019	| \**No Class*\* - Spring Break | 
 11	| 4/2/2019	| Progress checks and work time |
