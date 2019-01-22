@@ -45,8 +45,8 @@ Use respectful language and professional behavior in class. Practice respect and
 **Many assignments are due by the start of class unless specified.** Projects may have different timeline and will be stated when project is assigned.
 
 Late assignments are not accepted for full grading consideration, with two exceptions:
- 1. 	If you’ve talked with me at least one day before the assignment is due and obtained consent to hand it in at a later date.
- 2. 	If you have a medical or family emergency for which you can provide some evidence of having to miss class to attend to.
+ 1. If you’ve talked with me at least one day before the assignment is due and obtained consent to hand it in at a later date.
+ 2. If you have a medical or family emergency for which you can provide some evidence of having to miss class to attend to.
 
 If neither of these requirements is satisfied, you may still turn in a late assignment. It’s grade potential decreases by 10% each day it is late. (e.g. 24 hours late or less - 90% maximum grade; 48 hours late or less - 80% max grade; etc)
 
