@@ -18,15 +18,15 @@ Create a document that, in complete sentences, each week
 
 *Example:*
 
-      3/21/2018
+      **3/21/2018**
       Group Meeting Notes
-      We’ve changed the main conflict from famine to an unicorn STI outbreak.
+      - We’ve changed the main conflict from famine to an unicorn STI outbreak.
       Accomplished last week	
-      I recorded all female voiceover materials and began creating battle sound effects. 
+      - I recorded all female voiceover materials and began creating battle sound effects. 
       Expectations this week
-      Editing, cleaning, cataloging all usable takes.
-      I've decided to change the 'voice' of the Brown Orc to a Pirate.
-      I have to research horse neighing sounds. 
+      - Editing, cleaning, cataloging all usable takes.
+      - I've decided to change the 'voice' of the Brown Orc to a Pirate.
+      - I have to research horse neighing sounds. 
 
 ### Timely progress - 5 points
 Weekly progress is expected with all projects.
