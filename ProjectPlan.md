@@ -11,7 +11,9 @@ Nov 15 | 100 Points Each
 1. Brainstorm a project that will expand your portfolio.
 These projects may be created individually or as a group
 
-2. Each project plan must
+2. This project is meant to expand your portfolio and showoff your current skill -- you must speak with the instructor prior to starting your project & this must not be your first attempt at it. Example: You can not make your first game as your final project. You can not make your first film as your final project. 
+
+3. Each project plan must
 	+	Be Digitally produced (Microsoft Word, Google Docs)
 	+ Address stages of _weekly_ progress including:
 		1. 'peer review' - Either Dec 1 or 8
