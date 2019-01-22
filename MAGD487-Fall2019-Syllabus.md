@@ -10,7 +10,7 @@
 - Contact Details:
 	-	Office Phone: (262) 472-1725
 	- Email: hwangn@uww.edu
-- Meeting times: Thursday, 6:30pm-9pm
+- Meeting times: Tuesday, 5pm-7:30pm
 	- Meeting Location: McGraw 127
 	- Exam: TBA
 
