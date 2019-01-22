@@ -8,6 +8,9 @@
 <a named="part1"></a> 
 # Part One: Portfolio Creation - 200 points - Due 3/19
 
+**If you have created a portfolio prior to this course, show it to Prof. Hwang, as you may be excused from this assignment. If you have a complete portfolio, you will still present on 3/19**
+**If you have completed your portfolio and have show Prof. Hwang, you can start your [project](ProjectPlan.md).
+
 ## Objectives
 + Research effective portfolios
 + Research appropriate platforms to host portfolio content
