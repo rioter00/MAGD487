@@ -120,7 +120,7 @@ WEEK	| DATE	| Presentations / Work | Assigned
 12	| 4/9/2019	| Meetings with students, progress checks and work time |
 13	| 4/16/2019	| Meetings with students, progress checks and work time |
 14	| 4/23/2019	| Meetings with students, progress checks and work time |
-15	| 4/30/2019	| **Final Project, Final Portfolio due, Revised Resume due** Submit to CANVAS  |
+15	| 4/30/2019	| **Revised Portfolio due, Revised Resume due** Submit to CANVAS  |
 16	| 5/7/2019	| EXPO Preparation
 Exam	| 5/13/2019	| TIME TBA: FINAL PROJECT PRESENTATIONS
 
