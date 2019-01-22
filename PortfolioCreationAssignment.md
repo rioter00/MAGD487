@@ -23,7 +23,7 @@
 > *A select collection of media created by an individual or groups of individuals, showcasing work to possibly attract employers and  clients, create a branding identity, increase visibility, and create a communications channel to followers.*
 
 ## Process
-#### For the first half this semester you will working through this project, with meetings of progress with the instructor. Each stage will have expected materials that will be graded.
+#### For the first half this semester you will work through this assignment. You will have meetings to progress with the instructor. Each stage will have materials that will be graded, with the expectation that having completed this sequence, you will have materials/media, layout, code/webpages, completed in the form of a live portfolio.
 
   > **How you will be graded**
   > At each step (almost), look for 'check in material' section. 
@@ -57,8 +57,7 @@ Do not begin work on this project until after you've completed the [Portfolio Re
   > - [ ] Sketches should answer the follow questions:
   >   - [ ] What is the layout? Single Page? Multi-page?
   >   - [ ] How are images shown? Gallery? Carousel/Sliders? Accent image?
-  > - [ ] How do you attain focus?
-  > - [ ] Any particular type-facing?
+  > - [ ] Type-facing? Color Scheme? Logo/Icon?
   > - [ ] About Page?
   > - [ ] Blog Page? What would you blog about?
 
@@ -75,18 +74,21 @@ Do not begin work on this project until after you've completed the [Portfolio Re
 4. Write descriptions of individual artifacts and larger projects.
   - [ ] If grouping artifacts from a single project, a written description about the project (also known as case studies) give visitors insight on the project and process as a whole.
   - [ ] If had a contributor to work items, be sure to credit them.
+  
+  Write a short bio about yourself. Information about the work you create, relevant experience, and ways to contact you are important. 
 
-  > **Check-In Material** (Steps 3 and 4)
+  > **Check-In Material** 
   > - [ ] Bring all the formatted, converted, resized media.
   > - [ ] Bring in updated sketches.
   > - [ ] Bring written descriptions of projects/images/media/games.
   > - [ ] All media should be grouped and organized.
+  > - [ ] Bring a short bio. 
 
 ***
 5. Create a webpage or Find a content management system. Examples below.
 Research web hosts and services. Some may cost money. Signup for one and begin adding content and formatting. If are using a CMS and have well organized your materials, this stage may not take much time. Upload content, format page(s).
   - Examples of web content management systems.
-    - https://artstation.com
+    - https://artstation.com (hosted)
     - https://www.behance.net (hosted)
     - https://carbonmade.com (hosted)
     - http://wordpress.com (hosted)
