@@ -68,16 +68,16 @@ All work that you turn in should be your own. This includes text, images, audio 
 The University of Wisconsin-Whitewater is dedicated to a safe, supportive and non-discriminatory learning environment.  It is the responsibility of all undergraduate and graduate students to familiarize themselves with University policies regarding Special Accommodations, Academic Misconduct, Religious Beliefs Accommodation, Discrimination and Absence for University Sponsored Events (for details please refer to the Schedule of Classes; the 'Rights and Responsibilities' section of the Undergraduate Catalog; the Academic Requirements and Policies and the Facilities and Services sections of the Graduate Catalog; and the 'Student Academic Disciplinary Procedures (UWS Chapter 14); and the 'Student Nonacademic Disciplinary Procedures' (UWS Chapter 17).
 
 ## Assignments
-Assignment | Value | Details
------------|-------|-----
-1- Portfolio Research Presentation 	| 100 		| [Portfolio Research Assignment](PortfolioResearchAssignment.md)
-2- Portfolio Design and Plan 		| 100 		| [Portfolio Development Assignment](PortfolioCreationAssignment.md)
-3- Resume & Cover Letter Assignment 	| 150 		| [Resume Building Assignment](ResumeAndCoverLetterAssignment.md)
-4- Progress Check-Ins 			| 20 x 7 	| 
-5- Portfolio Presentation 		| 200		|
-6- Portfolio Quality Project - Plan 	| 100 		| [Project Plan](ProjectPlan.md)
-7- Final Portfolio and Revised Resume 	| 250		|
-8- Final Project Submission | 400			| 
+Assignment | Value | Details | Due Date
+-----------|-------|---------|---------
+1- Portfolio Research Presentation 	| 100 		| [Portfolio Research Assignment](PortfolioResearchAssignment.md) | 2/5/2019
+2- Portfolio Design and Plan 		| 100 		| [Portfolio Development Assignment](PortfolioCreationAssignment.md) | First Half of Semester
+3- Resume & Cover Letter Assignment 	| 150 		| [Resume Building Assignment](ResumeAndCoverLetterAssignment.md) | 3/5/2019 
+4- Progress Check-Ins 			| 20 x 7 	| [Progress Checks](ProgressChecks.md)	|Weeks 4, 5, 6, 11, 12, 13, 14
+5- Portfolio Presentation 		| 200		| 					| 3/12/2019
+6- Portfolio Quality Project - Plan 	| 100 		| [Project Plan](ProjectPlan.md) 	| 3/19/2019
+7- Final Portfolio and Revised Resume 	| 250		| 					|4/30/2019
+8- Final Project Submission 		| 400		| 					| Final Exam Time
 **Total** | **1440**
 
 It is your responsibility to keep track of your grades over the course of the semester. Your grades are posted on CANVAS and can be checked at any time. You earn your grades by the degree to which you meet the requirements of the assignments. If you find that you are not doing as well as you would like to be doing, you can meet with me to discuss extra credit projects BEFORE the end of the semester. If you feel that I have made a mistake recording a grade that you earned, I encourage you to email me, politely, so that it can be corrected.
@@ -105,11 +105,11 @@ Dates and topics subject to change
 WEEK	| DATE	| Presentations / Work | Assigned
 ------| ------| -------------------- | --------:
 1	| 1/22/2019	| Introduction to the class | 1. [Portfolio Research Assignment](PortfolioResearchAssignment.md)
-2	| 1/29/2019	| **Explanation of meetings with students, progress checks and work time** | 2. [Portfolio Development Assignment](PortfolioCreationAssignment.md) <br><br> 3. [Resume and Cover Letter Building Assignment](ResumeAndCoverLetterAssignment.md.md)<br><br> 4. [Progress Checks](ProgressChecks.md)
+2	| 1/29/2019	| **Explanation of meetings with students, progress checks and work time** | 2. [Portfolio Development Assignment](PortfolioCreationAssignment.md) <br><br> 3. [Resume and Cover Letter Building Assignment](ResumeAndCoverLetterAssignment.md.md)<br><br> 4. [Progress Checks](ProgressChecks.md) <br><br> 6. [Project Plan](ProjectPlan.md)
 3	| 2/5/2019	| **1. Portfolio Research Presentations** | 
 4	| 2/11/2019	| Progress checks and work time | 
 5	| 2/19/2019	| Progress checks and work time | 
-6	| 2/26/2019	| Progress checks and work time | 6. [Project Plan](ProjectPlan.md)
+6	| 2/26/2019	| Progress checks and work time | 
 7	| 3/5/2019	| **3. Resume and Cover Letter Presentations and Workshop** |
 8	| 3/12/2019	| **5. Portfolio Presentations** |
 9	| 3/19/2019	| **6. Project Plans Due** | 
