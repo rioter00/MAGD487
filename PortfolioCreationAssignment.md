@@ -1,4 +1,4 @@
-# MAGD 487 - Portfolio Development Project 
+# MAGD 487 - Portfolio Development Assignment
 
 [Part One: Portfolio Creation](#part1) - Due 3/19
 
