@@ -106,9 +106,9 @@ Research web hosts and services. Some may cost money. Signup for one and begin a
 
 ***
 6. Clean up, edit, change, adjust contect, layout, aesthetics. 
-> - Ask your classmates to look at it. Make more adjustments. 
-> - Prepare a presentation of your portfolio.
-> - Implement social media, analytics, SEO
+> [ ] Ask your classmates to look at it. Make more adjustments. 
+> [ ] Prepare a presentation of your portfolio.
+> [ ] Implement social media, analytics, SEO
 
 * * *
 
