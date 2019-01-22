@@ -1,4 +1,4 @@
-# MAGD 487 - RESUME BUILDING ASSIGNMENT 
+# MAGD 487 - RESUME and COVER LETTER BUILDING ASSIGNMENT 
 
 [Creation](#part-one-100-points) - Due 3/5
 
@@ -16,25 +16,21 @@
 + http://www.indeed.com/q-Game-Artist-jobs.html
 + https://www.glassdoor.com/Job/concept-artist-jobs-SRCH_KO0,14.htm
 
-### 1. Find two job postings relevant to your field that could see yourself applying - 20 points
+### 1. Find two job postings relevant to your field that could see yourself applying - 10 points
 Job postings generally include a written description of the job, required qualifications, non-required/preferred qualifications, and desired soft skills.
 
 Use any resource to find two recent job postings. Print out the postings. Highlight each aspect listed above.
 
-### 2. On a separate paper answer these questions, referencing both job postings - 20 points
+### 2. On a separate paper answer these questions, referencing both job postings - 10 points
 1. What aspects of this job are enticing to you?
 2. At present, do you feel qualified enough to apply for either posting? Give supporting reasons. 
 3. Are there required qualifications that you lack? Which ones?
 4. Can you see yourself acquiring a majority of those qualifications?
 
-### 3. Create a resume for each job posting - 60 points
+### 3. Create a resume for each job posting - 30 points
 Using [Resume Building Link](ResumeBuilding.md) for reference, create a resume for each job posting.
 
-### 4. Bring the two job postings, answer sheet, and your two resumes to class.
-We will share our resumes in class and discuss strategies on making them more effective.
-
-
-### 5. Create a cover letter for each job posting - 50 points per cover letter
+### 4. Create a cover letter for each job posting - 50 points 
 Cover letters generally take on a third part form, all of which is a part of the marketing tool to sell yourself to potential employees. One of the goals of the cover letter is get the hirer to look at your resume and ultimately an interview. 
 
 1. Introduction of your as appropriate candidate for the specific job with a brief qualifying sentence. 
@@ -47,8 +43,9 @@ References:
 + https://career.vt.edu/job-search/presenting_yourself/cover-letters.html
 + http://www.mining.vt.edu/recruiting/Cover%20Letter%20Tips.pdf
 + https://github.com/rioter00/MAGD487/blob/master/CoverLetterReference.md
-6. Bring (print) the two job postings, answer sheet, and your two resumes to class.
+### 5. Bring (print) the two job postings, answer sheet, your two resumes and your two cover letters to class.
 We will share our resumes in class and discuss strategies on making them more effective. Digital versions will not be accepted.
+
 
 * * *
 
