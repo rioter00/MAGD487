@@ -1,13 +1,10 @@
 # MAGD 487 - RESUME BUILDING ASSIGNMENT 
 
-[Part One](#part-one-100-points)
+[Creation](#part-one-100-points) - Due 3/5
 
-[Part Two](#part-two-100-points)
+[Revisions](#part-two-100-points) - Due 4/30
 
-### Due Date: TBD
-
-### Part One: 100 Points
-
+# Part One: 100 Points
 
 ## Objectives
 + Research job postings relevant to your field
@@ -38,7 +35,7 @@ We will share our resumes in class and discuss strategies on making them more ef
 
 * * *
 
-### Part Two: 100 Points
+# Part Two: 100 Points
 
 ### 1. Revisions and Updates
 Based on the feedback from instructor and peers, make appropriate changes to your resumes. - 70 points
