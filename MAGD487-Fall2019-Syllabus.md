@@ -73,13 +73,12 @@ Assignment | Value | Details
 -----------|-------|-----
 1- Portfolio Research Presentation 	| 100 		| [Portfolio Research Assignment](PortfolioResearchAssignment.md)
 2- Portfolio Design and Plan 		| 100 		| [Portfolio Development Assignment](PortfolioCreationAssignment.md)
-3- Resume Building Assignment 		| 150 		| [Resume Building Assignment](ResumeAndCoverLetterAssignment.md)
-4- Cover Letter Assignment 		| 00 		| [Cover Letter Assignment](CoverLetterAssignment.md)
-5- Progress Check-Ins 			| 100 x 5 	| 
-6- Mid-Semester Portfolio/Project Presentation | 200	|
-7- Portfolio Quality Project - Plan 	| 100 		| [Project Plan](ProjectPlan.md)
-8- Final Portfolio and Revised Resume 	| 250		|
-9- Final Project Submission | 400			| 
+3- Resume & Cover Letter Assignment 	| 150 		| [Resume Building Assignment](ResumeAndCoverLetterAssignment.md)
+4- Progress Check-Ins 			| 20 x 7 	| 
+5- Portfolio Presentation 		| 200		|
+6- Portfolio Quality Project - Plan 	| 100 		| [Project Plan](ProjectPlan.md)
+7- Final Portfolio and Revised Resume 	| 250		|
+8- Final Project Submission | 400			| 
 **Total** | **1900**
 
 It is your responsibility to keep track of your grades over the course of the semester. Your grades are posted on CANVAS and can be checked at any time. You earn your grades by the degree to which you meet the requirements of the assignments. If you find that you are not doing as well as you would like to be doing, you can meet with me to discuss extra credit projects BEFORE the end of the semester. If you feel that I have made a mistake recording a grade that you earned, I encourage you to email me, politely, so that it can be corrected.
@@ -107,19 +106,19 @@ Dates and topics subject to change
 WEEK	| DATE	| Presentations / Work | Assigned
 ------| ------| -------------------- | --------:
 1	| 1/22/2019	| Introduction to the class | 1. [Portfolio Research Assignment](PortfolioResearchAssignment.md)
-2	| 1/29/2019	| **Explanation of meetings with students, progress checks and work time** | 2. [Portfolio Development Assignment](PortfolioCreationAssignment.md) <br><br> 3. [Resume and Cover Letter Building Assignment](ResumeAndCoverLetterAssignment.md.md)
+2	| 1/29/2019	| **Explanation of meetings with students, progress checks and work time** | 2. [Portfolio Development Assignment](PortfolioCreationAssignment.md) <br><br> 3. [Resume and Cover Letter Building Assignment](ResumeAndCoverLetterAssignment.md.md)<br><br> 4. [Progress Checks](ProgressChecks.md)
 3	| 2/5/2019	| **Portfolio Research Presentations** | 
-4	| 2/11/2019	| Meetings with students, progress checks and work time | [ProjectPlan](ProjectPlan.md)
-5	| 2/19/2019	| Meetings with students, progress checks and work time | 
-6	| 2/26/2019	| Meetings with students, progress checks and work time | 7. Portfolio Expansion Projects Outlined
+4	| 2/11/2019	| Progress checks and work time | 
+5	| 2/19/2019	| Progress checks and work time | 
+6	| 2/26/2019	| Progress checks and work time | 6. [Project Plan](ProjectPlan.md)
 7	| 3/5/2019	| **Resume and Cover Letter Presentations and Workshop** |
-8	| 3/12/2019	| Meetings with students, progress checks and work time |
-9	| 3/19/2019	| **6. Portfolio Presentations** | 
+8	| 3/12/2019	| **5. Portfolio Presentations** |
+9	| 3/19/2019	| **6. Project Plans Due** | 
 10	| 3/26/2019	| \**No Class*\* - Spring Break | 
-11	| 4/2/2019	| Meetings with students, progress checks and work time |
-12	| 4/9/2019	| Meetings with students, progress checks and work time |
-13	| 4/16/2019	| Meetings with students, progress checks and work time |
-14	| 4/23/2019	| Meetings with students, progress checks and work time |
+11	| 4/2/2019	| Progress checks and work time |
+12	| 4/9/2019	| Progress checks and work time |
+13	| 4/16/2019	| Progress checks and work time |
+14	| 4/23/2019	| Progress checks and work time |
 15	| 4/30/2019	| **Revised Portfolio due, Revised Resume & Cover Letter due** Submit to CANVAS  |
 16	| 5/7/2019	| EXPO Preparation
 Exam	| 5/13/2019	| TIME TBA: FINAL PROJECT PRESENTATIONS
