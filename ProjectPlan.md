@@ -2,7 +2,7 @@
 
 Due  | Value
 ------- | -------
-Nov 15 | 100 Points Each
+4/2/2019 | 100 Points Each
 
 ## Objectives
 + Produce plans for at least **two** portfolio-quality projects
