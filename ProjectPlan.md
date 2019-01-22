@@ -2,10 +2,10 @@
 
 Due  | Value
 ------- | -------
-4/2/2019 | 100 Points Each
+4/2/2019 | 100 Points
 
 ## Objectives
-+ Produce plans for at least **two** portfolio-quality projects
++ Produce plans for at least one portfolio-quality project
 
 ## Procedure
 1. Brainstorm a project that will expand your portfolio.
