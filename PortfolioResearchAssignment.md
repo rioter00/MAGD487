@@ -13,33 +13,27 @@ Portfolios are marketing and branding tools for creators and companies. They all
 
 The aspects of effective portfolio will be part of in-class discussion based on your research and incorporated into your own portfolio.
 
-## Resources
+## Resources (not limited to)
 - https://www.deviantart.com
 - https://www.artstation.com
 - https://www.behance.net 
 - https://carbonmade.com 
-- http://wordpress.com
-- http://wordpress.org
-- http://joomla.com
-- http://squarespace.com
-- http://github.com
-- http://wix.com
 
 ***
 ## Assignment
-### 1. Find four different portfolios of non-student individuals who do similar work to you.
+### 1. Find four well-made portfolios of non-student individuals who do similar work to you.
+You will explain why who you chose portfolios and why you think they are well-made.
 
-### 2. Examine the Portfolios and Prepare a 5-minute presentation
-Your presentation should answer the following questions.
-
-1. Whose portfolios did you examine?
+### 2. Examine the Portfolios - 50 pts
+In a typed document -- submitted to canvas **by the start of class/** answer the follow questions. Short answer allowed. 
+1. Whose portfolios did you examine? -- provide web address.
 2. How are these  portfolios different and similar?
 3. What media does each individual create (3D models, concept art, character animations, web-art, interactive art, sound art, video game backend, etc.) Do they create more than one?
 4. What media is used to showcase their creation?
 (Images, Videos, Games, Audio, Demos, Animations, etc.)
 5. Does the individual focus on a particular, style, method?
 6. What media does the individual use to show their work?
-7. How is the content organized?
+7. How is the content organized? (Examples: Text block, grid galleries, slideshow, etc)
 7. Is the site intuitive and easily navigated?
 8. How does the individual brand themselves?
 9. Does the individual have written content describing themselves, their work, their clients, their aesthetics, their inspirations?
@@ -52,4 +46,16 @@ Your presentation should answer the following questions.
 16. Is there a 'Blog' page? What's on it?
 17. Are there social media links?
 
-Include examples to support your answers in the form of slides for your presentation. Be prepared to use your own machine or the presenter station in class.
+
+# 3. Prepare a 5-minute presentation in a slideshow format. - 50pts
+Your presentation should answer the following questions vis-a-vis their portfolio. 
+1. Describe what parts of each portfolio is well-executed -- provide evidence.
+2. Describe what parts of each portfolio is poorly-executed -- provide evidence.
+3. Compare and contrast their strengths and weaknesses.
+4. Describe a portion of an indivdual's portfolio that stood out the most to you.
+
+Be prepared to use your own machine or the presenter station in class.
+
+
+
+
