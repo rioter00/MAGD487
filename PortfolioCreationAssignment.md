@@ -57,22 +57,22 @@ Do not begin work on this project until after you've completed the [Portfolio Re
   > - [ ] Blog Page? What would you blog about?
 
 3. Clean up media and create artifacts of creative work (images, videos, descriptions).
-  - When creating digital images, consider that a common width for websites is 960px.
-  - Create photographs of physical objects.
-  - Record videos of gameplay, animations.
-  - Resize/Crop images and videos.
-  - Convert formats to conform with web standards.
-  - Note that many Content Management Systems may automatically resize, crop, and edit photos. If you plan on writing your ```code```, note that you might have to create your thumbnails, etc.
+  - [ ] When creating digital images, consider that a common width for websites is 960px.
+  - [ ] Create photographs of physical objects.
+  - [ ] Record videos of gameplay, animations.
+  - [ ] Resize/Crop images and videos.
+  - [ ] Convert formats to conform with web standards.
+  - [ ] Note that many Content Management Systems may automatically resize, crop, and edit photos. If you plan on writing your ```code```, note that you might have to create your thumbnails, etc.
 
 4. Write descriptions of individual artifacts and larger projects.
-  - If grouping artifacts from a single project, a written description about the project (also known as case studies) give visitors insight on the project and process as a whole.
-  - If had a contributor to work items, be sure to credit them.
+  - [ ] If grouping artifacts from a single project, a written description about the project (also known as case studies) give visitors insight on the project and process as a whole.
+  - [ ] If had a contributor to work items, be sure to credit them.
 
   > **Check-In Material** (Steps 3 and 4)
-  > - Bring all the formatted, converted, resized media.
-  > - Bring in updated sketches.
-  > - Bring written descriptions of projects/images/media/games.
-  > - All media should be grouped and organized.
+  > - [ ] Bring all the formatted, converted, resized media.
+  > - [ ] Bring in updated sketches.
+  > - [ ] Bring written descriptions of projects/images/media/games.
+  > - [ ] All media should be grouped and organized.
 
 5. Create a webpage or Find a content management system. Examples below.
 Research web hosts and services. Some may cost money. Signup for one and begin adding content and formatting. If are using a CMS and have well organized your materials, this stage may not take much time. Upload content, format page(s).
@@ -87,8 +87,8 @@ Research web hosts and services. Some may cost money. Signup for one and begin a
     - http://github.com (markdown possible, some restrictions)
 
   > **Check-In Material**
-  > - Have the link to the live page(s).
-  > - All linked media and pages should run and open. Dead links may result in lower evaluation. 
+  > - [ ] Have the link to the live page(s).
+  > - [ ] All linked media and pages should run and open. Dead links may result in lower evaluation. 
 
 6. Prepare a presentation of your portfolio.
 
