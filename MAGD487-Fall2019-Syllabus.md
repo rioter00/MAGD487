@@ -56,7 +56,7 @@ Keep digital copies of all of your work for this class. This is for both your sa
 
 
 ### How I Will Communicate With You
-Email & D2L: Check it! You are responsible for checking the course D2L website for announcements on a daily basis.
+Email & CANVAS: Check it! You are responsible for checking the course CANVAS website for announcements on a daily basis.
 
 ### Media Caveat
 This is a media-heavy class, and as such we will be using computers for a large portion of the assignments. However, during lecture, discussion, or student presentations you may not have laptops, smart phones or mobile phones in use.
@@ -82,7 +82,7 @@ Assignment | Value | Details
 9- Final Project Submission | 400			| 
 **Total** | **1900**
 
-It is your responsibility to keep track of your grades over the course of the semester. Your grades are posted on D2L and can be checked at any time. You earn your grades by the degree to which you meet the requirements of the assignments. If you find that you are not doing as well as you would like to be doing, you can meet with me to discuss extra credit projects BEFORE the end of the semester. If you feel that I have made a mistake recording a grade that you earned, I encourage you to email me, politely, so that it can be corrected.
+It is your responsibility to keep track of your grades over the course of the semester. Your grades are posted on CANVAS and can be checked at any time. You earn your grades by the degree to which you meet the requirements of the assignments. If you find that you are not doing as well as you would like to be doing, you can meet with me to discuss extra credit projects BEFORE the end of the semester. If you feel that I have made a mistake recording a grade that you earned, I encourage you to email me, politely, so that it can be corrected.
 
 ## Grading Scale
 Grade	| Percentage Range |	Grade Interpretation
@@ -120,7 +120,7 @@ WEEK	| DATE	| Presentations / Work | Assigned
 12	| 4/9/2019	| Meetings with students, progress checks and work time |
 13	| 4/16/2019	| Meetings with students, progress checks and work time |
 14	| 4/23/2019	| Meetings with students, progress checks and work time |
-15	| 4/30/2019	| **Final Project, Final Portfolio due, Revised Resume due** Submit to D2L  |
+15	| 4/30/2019	| **Final Project, Final Portfolio due, Revised Resume due** Submit to CANVAS  |
 16	| 5/7/2019	| EXPO Preparation
 Exam	| 5/13/2019	| TIME TBA: FINAL PROJECT PRESENTATIONS
 
