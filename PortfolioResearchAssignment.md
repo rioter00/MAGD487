@@ -1,5 +1,5 @@
 # MAGD 487 - Portfolio Research Assignment
-## Due Date: 9/22 - 100 Points
+## Due Date: 2/5/2019 - 100 Points
 
 ## Objectives
 + Research and examine existing portfolios of individuals in similar fields
@@ -14,6 +14,8 @@ Portfolios are marketing and branding tools for creators and companies. They all
 The aspects of effective portfolio will be part of in-class discussion based on your research and incorporated into your own portfolio.
 
 ## Resources
+- https://www.deviantart.com
+- https://www.artstation.com
 - https://www.behance.net 
 - https://carbonmade.com 
 - http://wordpress.com
@@ -25,8 +27,7 @@ The aspects of effective portfolio will be part of in-class discussion based on 
 
 ***
 ## Assignment
-### 1. Find four different portfolios of individuals who do similar work to you.
-Include these four links in a printed document that will be handed in at class time.
+### 1. Find four different portfolios of non-student individuals who do similar work to you.
 
 ### 2. Examine the Portfolios and Prepare a 5-minute presentation
 Your presentation should answer the following questions.
@@ -40,7 +41,7 @@ Your presentation should answer the following questions.
 6. What media does the individual use to show their work?
 7. How is the content organized?
 7. Is the site intuitive and easily navigated?
-8. How does the individuals brand themselves?
+8. How does the individual brand themselves?
 9. Does the individual have written content describing themselves, their work, their clients, their aesthetics, their inspirations?
 10. Does the individual give a way to contact them?
 11. How would you describe the quality of the work in the portfolio?
@@ -50,6 +51,5 @@ Your presentation should answer the following questions.
 15. Is there an 'About' page? What's on it?
 16. Is there a 'Blog' page? What's on it?
 17. Are there social media links?
-
 
 Include examples to support your answers in the form of slides for your presentation. Be prepared to use your own machine or the presenter station in class.
