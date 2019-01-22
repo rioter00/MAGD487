@@ -1,10 +1,10 @@
 # MAGD 487 - Progress Checks
 
-Due weekly (weeks 4, 5, 6, 11, 12, 13, 14)
+Due weeks 4, 5, 6, 11, 12, 13, 14)
 
 ### Objectives
 1. Each week, you will arrange a meeting with Prof. Hwang during class to update him with your progress. There will be a sign up. It is your responsibility to meet with Prof. Hwang.
-2. Produce a document with weekly updates, reporting specific weekly work, adjustments to plan, and specific expectations for next week. 
+2. Produce a document with weekly updates, reporting specific weekly work, adjustments to plan, and specific expectations for next week.
 
 ### Submit
 You will submit this document by printing and hand it in to Nick
