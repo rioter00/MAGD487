@@ -77,8 +77,8 @@ Assignment | Value | Details
 4- Cover Letter Assignment 		| 100 		| [Cover Letter Assignment](CoverLetterAssignment.md)
 5- Progress Check-Ins 			| 100 x 5 	| 
 6- Mid-Semester Portfolio/Project Presentation | 200	|
-7- Portfolio Expansion Projects Outlined | 100 		| [ProjectPlan](ProjectPlan.md)
-8- Final Portfolio and Revised Resume | 250		|
+7- Portfolio Quality Project - Plan 	| 100 		| [Project Plan](ProjectPlan.md)
+8- Final Portfolio and Revised Resume 	| 250		|
 9- Final Project Submission | 400			| 
 **Total** | **1900**
 
