@@ -47,7 +47,7 @@ In a **typed/** document -- submitted to CANVAS **by the start of class/** answe
 17. Are there social media links?
 
 
-# 3. Prepare a 5-minute presentation in a slideshow format. - 50pts
+### 3. Prepare a 5-minute presentation in a slideshow format. - 50pts
 Your presentation should answer the following questions vis-a-vis their portfolio. 
 1. Describe what parts of each portfolio is well-executed -- provide evidence.
 2. Describe what parts of each portfolio is poorly-executed -- provide evidence.
