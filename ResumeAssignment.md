@@ -4,7 +4,7 @@
 
 [Revisions](#part-two-100-points) - Due 4/30
 
-# Part One: 100 Points
+# Part One: 200 Points
 
 ## Objectives
 + Research job postings relevant to your field
@@ -32,6 +32,23 @@ Using [Resume Building Link](ResumeBuilding.md) for reference, create a resume f
 
 ### 4. Bring the two job postings, answer sheet, and your two resumes to class.
 We will share our resumes in class and discuss strategies on making them more effective.
+
+
+### 5. Create a cover letter for each job posting - 50 points per cover letter
+Cover letters generally take on a third part form, all of which is a part of the marketing tool to sell yourself to potential employees. One of the goals of the cover letter is get the hirer to look at your resume and ultimately an interview. 
+
+1. Introduction of your as appropriate candidate for the specific job with a brief qualifying sentence. 
+2. Larger paragraph of your qualifications, with examples, that fit the job description. 
+3. A closing paragraph with a closing invitation for followup action (an interview). 
+Avoid reciting content from the resume. Use a cover to convey parts of you that aren’t apparent on your resume and portfolio.
+
+References:
++ http://blogs.uww.edu/internships/tag/cover-letters/
++ https://career.vt.edu/job-search/presenting_yourself/cover-letters.html
++ http://www.mining.vt.edu/recruiting/Cover%20Letter%20Tips.pdf
++ https://github.com/rioter00/MAGD487/blob/master/CoverLetterReference.md
+6. Bring (print) the two job postings, answer sheet, and your two resumes to class.
+We will share our resumes in class and discuss strategies on making them more effective. Digital versions will not be accepted.
 
 * * *
 
