@@ -71,13 +71,13 @@ The University of Wisconsin-Whitewater is dedicated to a safe, supportive and no
 ## Assignments
 Assignment | Value
 ------- | ------:
-1. Portfolio Research Presentation | 100 
-2. Portfolio Design and Plan | 100
-3. Resume Building Assignment | 150
-4. Cover Letter Assignment | 100
+1. Portfolio Research Presentation | 100 - [Portfolio Research Assignment](PortfolioResearchAssignment.md)
+2. Portfolio Design and Plan | 100 - [Portfolio Development Project](PortfolioCreationAssignment.md)
+3. Resume Building Assignment | 150 - 3. [Resume Building Assignment](ResumeAssignment.md)
+4. Cover Letter Assignment | 100 - [Cover Letter Assignment](CoverLetterAssignment.md)
 5. Progress Check-Ins | 100 x 5 | 
 6. Mid-Semester Portfolio/Project Presentation | 200
-7. Portfolio Expansion Projects Outlined | 100
+7. Portfolio Expansion Projects Outlined | 100 - [ProjectPlan](ProjectPlan.md)
 8. Final Portfolio and Revised Resume | 250
 9. Final Project Submission | 400
 **Total** | **1900**
