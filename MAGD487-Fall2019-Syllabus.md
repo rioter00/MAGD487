@@ -114,7 +114,7 @@ WEEK	| DATE	| Presentations / Work | Assigned
 6	| 2/26/2019	| Meetings with students, progress checks and work time | 7. Portfolio Expansion Projects Outlined
 7	| 3/5/2019	| **Resume and Cover Letter Presentations and Workshop** |
 8	| 3/12/2019	| Meetings with students, progress checks and work time |
-9	| 3/19/2019	| **6. Portfolio Presentations /** | 
+9	| 3/19/2019	| **6. Portfolio Presentations** | 
 10	| 3/26/2019	| \**No Class*\* - Spring Break | 
 11	| 4/2/2019	| Meetings with students, progress checks and work time |
 12	| 4/9/2019	| Meetings with students, progress checks and work time |
