@@ -36,15 +36,13 @@ At the end of the course students will have:
 - Become more comfortable giving and receiving peer review
 
 ### Attendance & Student Expectations
-Your presence in class is expected with excused absences being medical and family emergencies (such as a death in the family). You may have two unexcused absences without penalty, but beyond that you will lose 1/3 of a letter grade (A → A- → B+ → B → B- → C+, etc) from your final grade for each unexcused absence.
+Your presence for the entirety of class is expected with excused absences being medical and family emergencies (such as a death in the family). You may have two unexcused absences without penalty, but beyond that you will lose 1/3 of a letter grade (A → A- → B+ → B → B- → C+, etc) from your final grade for each unexcused absence.
 
-Please don't ask me what you missed. It is your responsibility to check Canvas, talk to other students, get notes, check announcements, etc.
+It is your responsibility to check Canvas, talk to other students, get notes, check announcements, etc.
 
-Practice respect and empathy with others during discussions and activities.
+Use respectful language and professional behavior in class. Practice respect and empathy with others during discussions and activities.
 
-Read/view/review any assigned media before class.
-
-<b>Assignments are due by the start of class unless specified.</b> Projects may have different timeline and will be stated when project is assigned.
+**Many assignments are due by the start of class unless specified.** Projects may have different timeline and will be stated when project is assigned.
 
 Late assignments are not accepted for full grading consideration, with two exceptions:
  1. 	If you’ve talked with me at least one day before the assignment is due and obtained consent to hand it in at a later date.
@@ -65,6 +63,7 @@ This is a media-heavy class, and as such we will be using computers for a large 
 Multimedia fluency and competence make it much easier to engage in academic misconduct. These technologies also provide professors with more sophisticated techniques for detecting misconduct. UWS policy in regard to misconduct is available online (http://www.uww.edu/handbook/student/#14).
 
 All work that you turn in should be your own. This includes text, images, audio and information. When you use work that is the intellectual property of others, this material should be properly identified and cited using either MLA or APA style citations. If you neglect to do this, you will automatically fail the assignment. If you willfully plagiarize the work of others, you will fail the course.
+
 ## UWW Statement
 The University of Wisconsin-Whitewater is dedicated to a safe, supportive and non-discriminatory learning environment.  It is the responsibility of all undergraduate and graduate students to familiarize themselves with University policies regarding Special Accommodations, Academic Misconduct, Religious Beliefs Accommodation, Discrimination and Absence for University Sponsored Events (for details please refer to the Schedule of Classes; the 'Rights and Responsibilities' section of the Undergraduate Catalog; the Academic Requirements and Policies and the Facilities and Services sections of the Graduate Catalog; and the 'Student Academic Disciplinary Procedures (UWS Chapter 14); and the 'Student Nonacademic Disciplinary Procedures' (UWS Chapter 17).
 
@@ -79,7 +78,7 @@ Assignment | Value | Details
 6- Portfolio Quality Project - Plan 	| 100 		| [Project Plan](ProjectPlan.md)
 7- Final Portfolio and Revised Resume 	| 250		|
 8- Final Project Submission | 400			| 
-**Total** | **1900**
+**Total** | **1440**
 
 It is your responsibility to keep track of your grades over the course of the semester. Your grades are posted on CANVAS and can be checked at any time. You earn your grades by the degree to which you meet the requirements of the assignments. If you find that you are not doing as well as you would like to be doing, you can meet with me to discuss extra credit projects BEFORE the end of the semester. If you feel that I have made a mistake recording a grade that you earned, I encourage you to email me, politely, so that it can be corrected.
 
