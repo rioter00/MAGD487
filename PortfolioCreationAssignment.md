@@ -107,7 +107,7 @@ To be updated.
 * * *
 
 <a name="part2"></a>
-# Part Two: Portfolio Revisions - 150 points - Due 3/19
+# Part Two: Portfolio Revisions - 150 points - Due 4/30
 
 ## Process
 #### The second half of the semester, as you work on portfolio-expanding content, you will make adjustments to your portfolio. 
