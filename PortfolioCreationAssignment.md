@@ -2,7 +2,7 @@
 
 [Part One: Portfolio Creation](#part1) - Due 3/19
 
-[Part Two: Portfolio Revisions](#part-two-150-points) - Due 4/30
+[Part Two: Portfolio Revisions](#part2) - Due 4/30
 
 <a named="part1"></a> #### Part One: Portfolio Creation - 200 points
 
