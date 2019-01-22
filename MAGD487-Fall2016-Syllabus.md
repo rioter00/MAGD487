@@ -1,6 +1,6 @@
 # MAGD 487
 ## Advanced MAGD Team Projects
-## Syllabus – Fall 2016
+## Syllabus – Spring 2019
 
 - Instructor: Nick Hwang
 - Office: McGraw 105
@@ -12,19 +12,14 @@
 	- Email: hwangn@uww.edu
 - Meeting times: Thursday, 6:30pm-9pm
 	- Meeting Location: McGraw 127
-	- Exam: Thursday, December 15, 2016; 6:35-8:35 p.m
-	- Course Website: on D2L (Desire 2 Learn)
+	- Exam: TBA
 
 
-- [UWW Academic Calendars](http://www.uww.edu/Documents/registrar/Calendars/2016-2017/2016-17%20CALENDAR.pdf)
+- [UWW Academic Calendars](https://www.uww.edu/Documents/registrar/Calendars/2018-2019/2018-19%20Calendar%206-22-2017%20APPROVED(0).pdf)
 
 
 ## Course Description
-As the culmination of the Media Arts and Game Development sequence, students taking this class will create a portfolio of their work in the MAGD program. Students will research effective portfolio building methods. Students will also search jobs in their market, create resumes, and practice creating cover letters.
-
-Through this course, we will video chat with various professionals in relevant fields, learning about their career trajectory. Students will be have QA sessions on job hunting, current field trends, and other relevant skills.
-
-After an initial version is live, students will expand their portfolios with content projects.
+As the culmination of the Media Arts and Game Development sequence, students taking this class will 1. create a portfolio of their work in the MAGD program After an initial version is live, students 2. will expand their portfolios with content projects. Students will research effective portfolio building methods. Students will also search jobs in their market, create resumes, and practice creating cover letters.
 
 ## Course Objectives
 At the end of the course students will have:
@@ -43,13 +38,13 @@ At the end of the course students will have:
 ### Attendance & Student Expectations
 Your presence in class is expected with excused absences being medical and family emergencies (such as a death in the family). You may have two unexcused absences without penalty, but beyond that you will lose 1/3 of a letter grade (A → A- → B+ → B → B- → C+, etc) from your final grade for each unexcused absence.
 
-Please don't ask me what you missed. It is your responsibility to check D2L, talk to other students, get notes, check announcements, etc.
+Please don't ask me what you missed. It is your responsibility to check Canvas, talk to other students, get notes, check announcements, etc.
 
 Practice respect and empathy with others during discussions and activities.
 
 Read/view/review any assigned media before class.
 
-Assignments are due by the start of class unless specified. Projects may have different timeline and will be stated when project is assigned.
+<b>Assignments are due by the start of class unless specified.</b> Projects may have different timeline and will be stated when project is assigned.
 
 Late assignments are not accepted for full grading consideration, with two exceptions:
  1. 	If you’ve talked with me at least one day before the assignment is due and obtained consent to hand it in at a later date.
@@ -111,18 +106,21 @@ Dates and topics subject to change
 
 WEEK	| DATE	| Presentations / Work | Assigned
 ------| ------| -------------------- | --------:
-1	| 9/08/2016	| Introduction to the class |   
-2	| 9/15/2016	| **Explanation of meetings with students, progress checks and work time** |   1. [Portfolio Research Assignment](PortfolioResearchAssignment.md)
-3	| 9/22/2016	| **Portfolio Research Presentations** |2. [Portfolio Development Project](PortfolioCreationAssignment.md) <br><br> 3. [Resume Building Assignment](ResumeAssignment.md)
-4	| \*9/29/2016	| Meetings with students, progress checks and work time |
-5	| 10/06/2016	| Meetings with students, progress checks and work time | 4. [Cover Letter Assignment](CoverLetterAssignment.md)
-6	| 10/13/2016	| Meetings with students, progress checks and work time <br> - Chris D. -|
-7	| 10/20/2016	| \**No Class*\* |
-8	| 10/27/2016	| \**No Class*\* |
-9	| 11/03/2016	| **Resume and Cover Letter Presentations and Workshop** | 7. Portfolio Expansion Projects Outlined
-10	| 11/10/2016	| **6. Mid-semester portfolio/project presentation** | [ProjectPlan](ProjectPlan.md)
-11	| 11/17/2016	| Meetings with students, progress checks and work time <br> - Indie Gaming - |
-12	| 11/24/2016	|  \**Thanksgiving*\* |
-13	| 12/01/2016	| Meetings with students, progress checks and work time <br> - Carolyn B - |
-14	| 12/08/2016	| Meetings with students, progress checks and work time |
-Exam	| 12/21/2016	| **Final Project, Final Portfolio due, Revised Resume due** Submit to D2L  |
+1	| 1/22/2019	| Introduction to the class |   
+2	| 1/29/2019	| **Explanation of meetings with students, progress checks and work time** |   1. [Portfolio Research Assignment](PortfolioResearchAssignment.md)
+3	| 2/5/2019	| **Portfolio Research Presentations** |2. [Portfolio Development Project](PortfolioCreationAssignment.md) <br><br> 3. [Resume Building Assignment](ResumeAssignment.md)
+4	| 2/11/2019	| Meetings with students, progress checks and work time |
+5	| 2/19/2019	| Meetings with students, progress checks and work time | 4. [Cover Letter Assignment](CoverLetterAssignment.md)
+6	| 2/26/2019	| Meetings with students, progress checks and work time <br> - Chris D. -|
+7	| 3/5/2019	| \**No Class*\* |
+8	| 3/12/2019	| \**No Class*\* |
+9	| 3/19/2019	| **Resume and Cover Letter Presentations and Workshop** | 7. Portfolio Expansion Projects Outlined
+10	| 3/26/2019	| **6. Mid-semester portfolio/project presentation** | [ProjectPlan](ProjectPlan.md)
+11	| 4/2/2019	| Meetings with students, progress checks and work time <br> - Indie Gaming - |
+12	| 4/9/2019	|  \**Thanksgiving*\* |
+13	| 4/16/2019	| Meetings with students, progress checks and work time <br> - Carolyn B - |
+14	| 4/23/2019	| Meetings with students, progress checks and work time |
+15	| 4/30/2019	| **Final Project, Final Portfolio due, Revised Resume due** Submit to D2L  |
+16	| 5/7/2019	| EXPO Preparation
+Exam	| 5/13/2019	| TIME TBA: FINAL PRESENTATIONS
+
