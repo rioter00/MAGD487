@@ -1,10 +1,10 @@
 # MAGD 487 - Portfolio Development Project 
 
-[Part One: Portfolio Creation] (#part-one-portfolio-creation-200-points) - Due 3/19
+[Part One: Portfolio Creation] (#part1) - Due 3/19
 
 [Part Two: Portfolio Revisions](#part-two-150-points) - Due 4/30
 
-#### Part One: Portfolio Creation - 200 points
+<a named="part1"></a>#### Part One: Portfolio Creation - 200 points
 
 ## Objectives
 + Research effective portfolios
