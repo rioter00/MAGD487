@@ -10,6 +10,7 @@
 
 **If you have created a portfolio prior to this course, show it to Prof. Hwang, as you may be excused from this assignment. If you have a complete portfolio, you will still present on 3/19**
 **If you have completed your portfolio and have show Prof. Hwang, you can start your [project](ProjectPlan.md).
+**If you accomplish at least one item each week, you will have a working version of your portfolio. 
 
 ## Objectives
 + Research effective portfolios
@@ -69,13 +70,14 @@ Do not begin work on this project until after you've completed the [Portfolio Re
   - [ ] Resize/Crop images and videos.
   - [ ] Convert formats to conform with web standards.
   - [ ] Note that many Content Management Systems may automatically resize, crop, and edit photos. If you plan on writing your ```code```, note that you might have to create your thumbnails, etc.
+  - [ ] Upload pertinant media to relevant Content Delivery Network. 
 
 ***
 4. Write descriptions of individual artifacts and larger projects.
   - [ ] If grouping artifacts from a single project, a written description about the project (also known as case studies) give visitors insight on the project and process as a whole.
-  - [ ] If had a contributor to work items, be sure to credit them.
+  - [ ] If you had a contributor/collaborator, be sure to credit them.
   
-  Write a short bio about yourself. Information about the work you create, relevant experience, and ways to contact you are important. 
+  - [ ] Write a short bio about yourself. Information about the work you create, relevant experience, and ways to contact you are important. 
 
   > **Check-In Material** 
   > - [ ] Bring all the formatted, converted, resized media.
@@ -103,11 +105,10 @@ Research web hosts and services. Some may cost money. Signup for one and begin a
   > - [ ] All linked media and pages should run and open. Dead links may result in lower evaluation. 
 
 ***
-6. Prepare a presentation of your portfolio.
-
-
-## Implementing social media, analytics, linking
-To be updated. 
+6. Clean up, edit, change, adjust contect, layout, aesthetics. 
+> - Ask your classmates to look at it. Make more adjustments. 
+> - Prepare a presentation of your portfolio.
+> - Implement social media, analytics, SEO
 
 * * *
 
