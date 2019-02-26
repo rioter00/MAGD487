@@ -34,6 +34,7 @@ At the end of the course students will have:
 - Be aware of design trends, best practices, and concerns in the relevant field
 - Gained experience presenting own material
 - Become more comfortable giving and receiving peer review
+- Plan and Design a portfolio-expanding project and execute that plan, creating a portfolio-quality work
 
 ### Attendance & Student Expectations
 Your presence for the entirety of class is expected with excused absences being medical and family emergencies (such as a death in the family). You may have two unexcused absences without penalty, but beyond that you will lose 1/3 of a letter grade (A → A- → B+ → B → B- → C+, etc) from your final grade for each unexcused absence. Bring your materials to class so you can work. 
