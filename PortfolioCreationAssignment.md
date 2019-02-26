@@ -93,6 +93,7 @@ Research web hosts and services. Some may cost money. Signup for one and begin a
     - https://artstation.com (hosted)
     - https://www.behance.net (hosted)
     - https://carbonmade.com (hosted)
+    - https://wix.com (hosted)
     - http://wordpress.com (hosted)
     - http://wordpress.org (self-hosted)
     - https://www.joomla.org (hosted)
