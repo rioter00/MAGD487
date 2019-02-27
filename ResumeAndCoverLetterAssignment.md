@@ -1,6 +1,6 @@
 # MAGD 487 - RESUME and COVER LETTER BUILDING ASSIGNMENT 
 
-[Creation](#part-one-100-points) - Due 3/5
+[Creation](#part-one-100-points) - Due 3/19
 
 [Revisions](#part-two-100-points) - Due 4/30
 
