@@ -111,9 +111,9 @@ WEEK	| DATE	| Presentations / Work | Assigned
 4	| 2/11/2019	| Progress checks and work time | 
 5	| 2/19/2019	| Progress checks and work time | 
 6	| 2/26/2019	| Progress checks and work time | 
-7	| 3/5/2019	| **3. Resume and Cover Letter Presentations and Workshop** |
-8	| 3/12/2019	| **5. Portfolio Presentations** |
-9	| 3/19/2019	| **6. Project Plans Due** | 
+7	| 3/5/2019	|  |
+8	| 3/12/2019	|  |
+9	| 3/19/2019	| **5. Portfolio Presentations**, **6. Project Plans Due**,**3. Resume and Cover Letter Presentations and Workshop** | 
 10	| 3/26/2019	| \**No Class*\* - Spring Break | 
 11	| 4/2/2019	| Progress checks and work time |
 12	| 4/9/2019	| Progress checks and work time |
