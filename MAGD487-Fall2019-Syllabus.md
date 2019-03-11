@@ -75,7 +75,7 @@ Assignment | Value | Details | Due Date
 2- Portfolio Design and Plan 		| 100 		| [Portfolio Development Assignment](PortfolioCreationAssignment.md) | First Half of Semester
 3- Resume & Cover Letter Assignment 	| 150 		| [Resume Building Assignment](ResumeAndCoverLetterAssignment.md) | 3/19/2019 
 4- Progress Check-Ins 			| 20 x 7 	| [Progress Checks](ProgressChecks.md)	|Weeks 4, 5, 6, 11, 12, 13, 14
-5- Portfolio Presentation 		| 200		| 					| 3/12/2019
+5- Portfolio Presentation 		| 200		| 					| 3/19/2019
 6- Portfolio Quality Project - Plan 	| 100 		| [Project Plan](ProjectPlan.md) 	| 3/19/2019
 7- Final Portfolio and Revised Resume 	| 250		| 					|4/30/2019
 8- Final Project Submission 		| 400		| 					| Final Exam Time
